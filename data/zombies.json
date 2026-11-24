@@ -1,0 +1,2518 @@
+[
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-JackInTheBox",
+  "m_zombieName": "JACK_IN_THE_BOX_ZOMBIE",
+  "m_zombieType": 15,
+  "m_animationType": 62,
+  "m_value": 3,
+  "m_firstLevel": 31,
+  "m_firstWave": 10,
+  "m_weight": 1000,
+  "m_versusBodyHealth": 340,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "68218b92477444e4a8472c516a44d6f6",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "d1bab5f5af8ca614d83a8b66913df843",
+   "m_SubObjectName": "SPR_Preview_Zombie_jackbox",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": 115.0,
+   "y": -80.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-WallnutHead",
+  "m_zombieName": "ZOMBIE",
+  "m_zombieType": 27,
+  "m_animationType": 21,
+  "m_value": 4,
+  "m_firstLevel": 99,
+  "m_firstWave": 1,
+  "m_weight": 3000,
+  "m_versusBodyHealth": 0,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "d654f5d91aad19e40b3d2efbbb38922e",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Zombatar",
+  "m_zombieName": "ZOMBATAR_FLAG_ZOMBIE",
+  "m_zombieType": 33,
+  "m_animationType": 21,
+  "m_value": 1,
+  "m_firstLevel": 1,
+  "m_firstWave": 1,
+  "m_weight": 0,
+  "m_versusBodyHealth": 0,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "3130d2dd23779d544afe49118131c2e8",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-SquashHead",
+  "m_zombieName": "ZOMBIE",
+  "m_zombieType": 30,
+  "m_animationType": 21,
+  "m_value": 3,
+  "m_firstLevel": 99,
+  "m_firstWave": 10,
+  "m_weight": 2000,
+  "m_versusBodyHealth": 0,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "b049fb17a7d58da49bc5d8cdd5cec8af",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Dancer",
+  "m_zombieName": "DANCING_ZOMBIE",
+  "m_zombieType": 8,
+  "m_animationType": 141,
+  "m_value": 5,
+  "m_firstLevel": 18,
+  "m_firstWave": 5,
+  "m_weight": 1000,
+  "m_versusBodyHealth": 340,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "286ca00ddf3cf374fbe7295d37d64554",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "60812f1cd519f234fa603e89716844c0",
+   "m_SubObjectName": "SPR_Preview_Zombie_disco",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": 88.0,
+   "y": -80.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-DuckyTube",
+  "m_zombieName": "DUCKY_TUBE_ZOMBIE",
+  "m_zombieType": 10,
+  "m_animationType": 21,
+  "m_value": 1,
+  "m_firstLevel": 21,
+  "m_firstWave": 5,
+  "m_weight": 0,
+  "m_versusBodyHealth": 0,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "3130d2dd23779d544afe49118131c2e8",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "5d5ea145803c9864384a51b4cd867843",
+   "m_SubObjectName": "SPR_Preview_Zombie_DuckyTube",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "49a5cc8a1d2aea842a6b90c1a6314590",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Snorkel",
+  "m_zombieName": "SNORKEL_ZOMBIE",
+  "m_zombieType": 11,
+  "m_animationType": 63,
+  "m_value": 3,
+  "m_firstLevel": 23,
+  "m_firstWave": 10,
+  "m_weight": 2000,
+  "m_versusBodyHealth": 0,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "05bfd8c85e4ffd647a6edd02fcf20479",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "d24609ddda920dc4dbb4706310dbba38",
+   "m_SubObjectName": "SPR_Preview_Zombie_snorkle",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Zamboni",
+  "m_zombieName": "ZOMBONI",
+  "m_zombieType": 12,
+  "m_animationType": 31,
+  "m_value": 7,
+  "m_firstLevel": 26,
+  "m_firstWave": 10,
+  "m_weight": 2000,
+  "m_versusBodyHealth": 1180,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "23dcf6c787f6310468e795451040d897",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "3da2e918fefedfb45bb7a992c09e540a",
+   "m_SubObjectName": "SPR_Preview_Zombie_zamboni",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": 185.0,
+   "y": -30.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-BackupDancer",
+  "m_zombieName": "BACKUP_DANCER",
+  "m_zombieType": 9,
+  "m_animationType": 142,
+  "m_value": 1,
+  "m_firstLevel": 18,
+  "m_firstWave": 1,
+  "m_weight": 0,
+  "m_versusBodyHealth": 0,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "86af4c6f62e682647853b46a5fb99a9e",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "863154a01c416424e8a2d97037894d79",
+   "m_SubObjectName": "SPR_Preview_Zombie_backup",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "ea98c46f114a01e4ba70ea6fe65d6ea6",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 3.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-TrafficCone",
+  "m_zombieName": "CONEHEAD_ZOMBIE",
+  "m_zombieType": 2,
+  "m_animationType": 21,
+  "m_value": 2,
+  "m_firstLevel": 3,
+  "m_firstWave": 1,
+  "m_weight": 4000,
+  "m_versusBodyHealth": 200,
+  "m_versusArmorHealth": 360,
+  "m_prefab": {
+   "m_AssetGUID": "3130d2dd23779d544afe49118131c2e8",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 1,
+  "m_defaultSkin": "Cone",
+  "m_previewSprite": {
+   "m_AssetGUID": "4adb9aa1992045843af2a44dc6146813",
+   "m_SubObjectName": "SPR_Preview_Zombie_Cone",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": 114.0,
+   "y": -78.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "cee8ad5b073733b4993d9deb5f86730f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "f7e7803333e57f24e923b88fd91c07fe",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "37e6eb504c2f0304db364fcf6816ce66",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 10.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-JalapenoHead",
+  "m_zombieName": "ZOMBIE",
+  "m_zombieType": 28,
+  "m_animationType": 21,
+  "m_value": 3,
+  "m_firstLevel": 99,
+  "m_firstWave": 10,
+  "m_weight": 1000,
+  "m_versusBodyHealth": 0,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "d654f5d91aad19e40b3d2efbbb38922e",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-GatlingHead",
+  "m_zombieName": "ZOMBIE",
+  "m_zombieType": 29,
+  "m_animationType": 21,
+  "m_value": 3,
+  "m_firstLevel": 99,
+  "m_firstWave": 10,
+  "m_weight": 2000,
+  "m_versusBodyHealth": 0,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "b049fb17a7d58da49bc5d8cdd5cec8af",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Pail",
+  "m_zombieName": "BUCKETHEAD_ZOMBIE",
+  "m_zombieType": 4,
+  "m_animationType": 21,
+  "m_value": 4,
+  "m_firstLevel": 8,
+  "m_firstWave": 1,
+  "m_weight": 3000,
+  "m_versusBodyHealth": 200,
+  "m_versusArmorHealth": 1100,
+  "m_prefab": {
+   "m_AssetGUID": "3130d2dd23779d544afe49118131c2e8",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 1,
+  "m_defaultSkin": "Pail",
+  "m_previewSprite": {
+   "m_AssetGUID": "9a90234b638abb34dbae9d26147be0ca",
+   "m_SubObjectName": "SPR_Preview_Zombie_Pail",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": 104.0,
+   "y": -89.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "f7e7803333e57f24e923b88fd91c07fe",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Pogo",
+  "m_zombieName": "POGO_ZOMBIE",
+  "m_zombieType": 18,
+  "m_animationType": 60,
+  "m_value": 4,
+  "m_firstLevel": 38,
+  "m_firstWave": 10,
+  "m_weight": 1000,
+  "m_versusBodyHealth": 340,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "ed140a50e047ba242a30ee7ebfe91dcd",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "41e52c4ba6669c54492e9080288b866d",
+   "m_SubObjectName": "SPR_Preview_Zombie_pogo",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": 115.0,
+   "y": -80.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Gargantuar",
+  "m_zombieName": "GARGANTUAR",
+  "m_zombieType": 23,
+  "m_animationType": 55,
+  "m_value": 10,
+  "m_firstLevel": 48,
+  "m_firstWave": 15,
+  "m_weight": 1500,
+  "m_versusBodyHealth": 3000,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "c4e97f5f953e98947a7a32ec0906c781",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "14b16b6de9bf7dc40aca5ddde98e9e08",
+   "m_SubObjectName": "SPR_Preview_Zombie_gargantuar",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": 158.0,
+   "y": -53.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-TallnutHead",
+  "m_zombieName": "ZOMBIE",
+  "m_zombieType": 31,
+  "m_animationType": 21,
+  "m_value": 4,
+  "m_firstLevel": 99,
+  "m_firstWave": 10,
+  "m_weight": 2000,
+  "m_versusBodyHealth": 0,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "d654f5d91aad19e40b3d2efbbb38922e",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-PeaHead",
+  "m_zombieName": "ZOMBIE",
+  "m_zombieType": 26,
+  "m_animationType": 21,
+  "m_value": 1,
+  "m_firstLevel": 99,
+  "m_firstWave": 1,
+  "m_weight": 4000,
+  "m_versusBodyHealth": 0,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "b049fb17a7d58da49bc5d8cdd5cec8af",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Bungee",
+  "m_zombieName": "BUNGEE_ZOMBIE",
+  "m_zombieType": 20,
+  "m_animationType": 64,
+  "m_value": 3,
+  "m_firstLevel": 41,
+  "m_firstWave": 10,
+  "m_weight": 1000,
+  "m_versusBodyHealth": 420,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "9b4b2d476bc59d34595f5d77dd32d65c",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "ebdd115a537bbdb48b4e6eab2994ad3a",
+   "m_SubObjectName": "SPR_Preview_Zombie_bungi",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": 150.0,
+   "y": -54.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "1a10dafdd03fc6642bf21ad2615492ee",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-RedeyeGargantuar",
+  "m_zombieName": "REDEYED_GARGANTUAR",
+  "m_zombieType": 32,
+  "m_animationType": 55,
+  "m_value": 10,
+  "m_firstLevel": 48,
+  "m_firstWave": 15,
+  "m_weight": 6000,
+  "m_versusBodyHealth": 0,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "c4e97f5f953e98947a7a32ec0906c781",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Normal",
+  "m_zombieName": "ZOMBIE",
+  "m_zombieType": 0,
+  "m_animationType": 21,
+  "m_value": 1,
+  "m_firstLevel": 1,
+  "m_firstWave": 1,
+  "m_weight": 4000,
+  "m_versusBodyHealth": 200,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "3130d2dd23779d544afe49118131c2e8",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 1,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "5cf56019dae275a49a636c7019a61462",
+   "m_SubObjectName": "SPR_Preview_Zombie_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": 115.0,
+   "y": -106.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "49a5cc8a1d2aea842a6b90c1a6314590",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "f7e7803333e57f24e923b88fd91c07fe",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "131750aa40ef2104ea7347dc5333efe0",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 3.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Boss",
+  "m_zombieName": "BOSS",
+  "m_zombieType": 25,
+  "m_animationType": 72,
+  "m_value": 10,
+  "m_firstLevel": 50,
+  "m_firstWave": 1,
+  "m_weight": 0,
+  "m_versusBodyHealth": 0,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "607313b38d007114eac6c9b234c01f11",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-TrashCan",
+  "m_zombieName": "VS_MODE_TRASH_CAN_ZOMBIE",
+  "m_zombieType": 35,
+  "m_animationType": 21,
+  "m_value": 1,
+  "m_firstLevel": 1,
+  "m_firstWave": 1,
+  "m_weight": 0,
+  "m_versusBodyHealth": 200,
+  "m_versusArmorHealth": 800,
+  "m_prefab": {
+   "m_AssetGUID": "3130d2dd23779d544afe49118131c2e8",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "452eeb3a5d2bd484b8bfa371fb7303a8",
+   "m_SubObjectName": "SPR_Preview_TrashCan",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": 115.0,
+   "y": -106.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Bobsled",
+  "m_zombieName": "ZOMBIE_BOBSLED_TEAM",
+  "m_zombieType": 13,
+  "m_animationType": 61,
+  "m_value": 3,
+  "m_firstLevel": 26,
+  "m_firstWave": 10,
+  "m_weight": 2000,
+  "m_versusBodyHealth": 0,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "296bfd6febc29364799465c95c43d39c",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "3c550c182bb720e4796fb82a81522ad6",
+   "m_SubObjectName": "SPR_Preview_Zombie_bobsled",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Balloon",
+  "m_zombieName": "BALLOON_ZOMBIE",
+  "m_zombieType": 16,
+  "m_animationType": 54,
+  "m_value": 2,
+  "m_firstLevel": 33,
+  "m_firstWave": 10,
+  "m_weight": 2000,
+  "m_versusBodyHealth": 0,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "5e3ed9a382372444fb45aa995899cac3",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "1137ed677c9208b488544472db040062",
+   "m_SubObjectName": "SPR_Preview_Zombie_balloon",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": 96.0,
+   "y": -43.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Yeti",
+  "m_zombieName": "ZOMBIE_YETI",
+  "m_zombieType": 19,
+  "m_animationType": 92,
+  "m_value": 4,
+  "m_firstLevel": 40,
+  "m_firstWave": 1,
+  "m_weight": 1,
+  "m_versusBodyHealth": 0,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "0cb00e7981142834aac660f6803ef67a",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "bea52002d16e7d94ebe7016e9a8584b3",
+   "m_SubObjectName": "SPR_Preview_Zombie_yeti",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Door",
+  "m_zombieName": "SCREEN_DOOR_ZOMBIE",
+  "m_zombieType": 6,
+  "m_animationType": 21,
+  "m_value": 4,
+  "m_firstLevel": 13,
+  "m_firstWave": 5,
+  "m_weight": 3500,
+  "m_versusBodyHealth": 200,
+  "m_versusArmorHealth": 1500,
+  "m_prefab": {
+   "m_AssetGUID": "3130d2dd23779d544afe49118131c2e8",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 1,
+  "m_defaultSkin": "Screendoor",
+  "m_previewSprite": {
+   "m_AssetGUID": "5377064021d68824990500fe6fcfdb89",
+   "m_SubObjectName": "SPR_Preview_Zombie_Door",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": 100.0,
+   "y": -113.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Digger",
+  "m_zombieName": "DIGGER_ZOMBIE",
+  "m_zombieType": 17,
+  "m_animationType": 57,
+  "m_value": 4,
+  "m_firstLevel": 36,
+  "m_firstWave": 10,
+  "m_weight": 1000,
+  "m_versusBodyHealth": 300,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "a27786484de60a44ba33afce910b0a37",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "4ac6c2a73254fed478e7188322c133f5",
+   "m_SubObjectName": "SPR_Preview_Zombie_digger",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": 127.0,
+   "y": -79.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Imp",
+  "m_zombieName": "IMP",
+  "m_zombieType": 24,
+  "m_animationType": 56,
+  "m_value": 10,
+  "m_firstLevel": 48,
+  "m_firstWave": 1,
+  "m_weight": 0,
+  "m_versusBodyHealth": 0,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "200f6e83b1b84b24882a0270b6f7d746",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "a7fe9692055d663469f0b1c0981dcf55",
+   "m_SubObjectName": "SPR_Preview_Zombie_imp",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": 120.0,
+   "y": -150.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Polevaulter",
+  "m_zombieName": "POLE_VAULTING_ZOMBIE",
+  "m_zombieType": 3,
+  "m_animationType": 53,
+  "m_value": 2,
+  "m_firstLevel": 6,
+  "m_firstWave": 5,
+  "m_weight": 2000,
+  "m_versusBodyHealth": 340,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "1c0b368686b33c14dac23c8fb5baba3a",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 1,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "6bc7ed1a3eb489943a8674e1a7db5d64",
+   "m_SubObjectName": "SPR_Preview_Zombie_polevaulter",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": -45.0,
+   "y": -70.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "ddcb381e2b67f234885445a2650416e7",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Catapult",
+  "m_zombieName": "CATAPULT_ZOMBIE",
+  "m_zombieType": 22,
+  "m_animationType": 65,
+  "m_value": 5,
+  "m_firstLevel": 46,
+  "m_firstWave": 10,
+  "m_weight": 1500,
+  "m_versusBodyHealth": 720,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "1617d570383cd2940b5cd8ae6058b7fe",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "01cd6a19773c1fe4faa323125b4020e7",
+   "m_SubObjectName": "SPR_Preview_Zombie_catapult",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": 115.0,
+   "y": -40.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Gravestone",
+  "m_zombieName": "VS_MODE_ZOMBIE_GRAVESTONE",
+  "m_zombieType": 36,
+  "m_animationType": 21,
+  "m_value": 1,
+  "m_firstLevel": 1,
+  "m_firstWave": 1,
+  "m_weight": 0,
+  "m_versusBodyHealth": 360,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "25c6b28e9edad334e911eab9f838db18",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "bf6c4851e8eb58242b0349d1e02818bd",
+   "m_SubObjectName": "SPR_Preview_VsTombstone",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": 100.0,
+   "y": -130.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Ladder",
+  "m_zombieName": "LADDER_ZOMBIE",
+  "m_zombieType": 21,
+  "m_animationType": 66,
+  "m_value": 4,
+  "m_firstLevel": 43,
+  "m_firstWave": 10,
+  "m_weight": 1000,
+  "m_versusBodyHealth": 340,
+  "m_versusArmorHealth": 500,
+  "m_prefab": {
+   "m_AssetGUID": "80b9249029f2ff24a811b3629f2079a1",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "36c176e8f6abce1438dfcb2282950692",
+   "m_SubObjectName": "SPR_Preview_Zombie_ladder",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": 98.0,
+   "y": -117.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Newspaper",
+  "m_zombieName": "NEWSPAPER_ZOMBIE",
+  "m_zombieType": 5,
+  "m_animationType": 30,
+  "m_value": 2,
+  "m_firstLevel": 11,
+  "m_firstWave": 1,
+  "m_weight": 1000,
+  "m_versusBodyHealth": 340,
+  "m_versusArmorHealth": 180,
+  "m_prefab": {
+   "m_AssetGUID": "a95c3b46307e9a443b3bacdafaf59cf0",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 1,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "86df888e3dcda77418578b79262c9088",
+   "m_SubObjectName": "SPR_Preview_Zombie_paper",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": 40.0,
+   "y": -90.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Football",
+  "m_zombieName": "FOOTBALL_ZOMBIE",
+  "m_zombieType": 7,
+  "m_animationType": 29,
+  "m_value": 7,
+  "m_firstLevel": 16,
+  "m_firstWave": 5,
+  "m_weight": 2000,
+  "m_versusBodyHealth": 200,
+  "m_versusArmorHealth": 1400,
+  "m_prefab": {
+   "m_AssetGUID": "4f62ed86b58617c42bbd9772b6d059fb",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "7230c0c1517010042bd9af7cc4313387",
+   "m_SubObjectName": "SPR_Preview_Zombie_football",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": 80.0,
+   "y": -70.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "1cac3f4407224a141a0cc999c27ea077",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Target",
+  "m_zombieName": "VS_MODE_TARGET_ZOMBIE",
+  "m_zombieType": 34,
+  "m_animationType": 21,
+  "m_value": 1,
+  "m_firstLevel": 1,
+  "m_firstWave": 1,
+  "m_weight": 0,
+  "m_versusBodyHealth": 1,
+  "m_versusArmorHealth": 200,
+  "m_prefab": {
+   "m_AssetGUID": "ef6d7e3da05e8724385d46f744370b5b",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "5cf56019dae275a49a636c7019a61462",
+   "m_SubObjectName": "SPR_Preview_Zombie_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-DolphinRider",
+  "m_zombieName": "DOLPHIN_RIDER_ZOMBIE",
+  "m_zombieType": 14,
+  "m_animationType": 59,
+  "m_value": 3,
+  "m_firstLevel": 28,
+  "m_firstWave": 10,
+  "m_weight": 1500,
+  "m_versusBodyHealth": 0,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "f6b5a94d9d6a62d43ada0a86735f822e",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "da10192fc299b724996edabb26ff32a8",
+   "m_SubObjectName": "SPR_Preview_Zombie_dolphinrider",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8199941900772194634
+  },
+  "m_Name": "ZombieDefinition-Flag",
+  "m_zombieName": "FLAG_ZOMBIE",
+  "m_zombieType": 1,
+  "m_animationType": 21,
+  "m_value": 1,
+  "m_firstLevel": 1,
+  "m_firstWave": 1,
+  "m_weight": 0,
+  "m_versusBodyHealth": 200,
+  "m_versusArmorHealth": 0,
+  "m_prefab": {
+   "m_AssetGUID": "3130d2dd23779d544afe49118131c2e8",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 1,
+  "m_defaultSkin": "Flag",
+  "m_previewSprite": {
+   "m_AssetGUID": "0827f429125899c4c8361011ba78ba37",
+   "m_SubObjectName": "SPR_Preview_Zombie_Flag",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": 0.0,
+   "y": -20.0
+  },
+  "m_scaryPotPreviewOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_platformGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_retroGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "f7e7803333e57f24e923b88fd91c07fe",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ }
+]

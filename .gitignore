@@ -1,0 +1,39 @@
+# 解压出来的大 dump（只提交 zip，不提交散文件）
+archives/isil/
+archives/source/
+archives/il/
+archives/il2/
+archives/art/
+archives/*/
+
+# 本地工具/编辑器
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Unity（若有人把 AssetRipper 工程放进来的话）
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+*.csproj
+*.sln
+
+# 系统
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 本地日志 / 临时
+*.log
+_tmp/

@@ -1,0 +1,7042 @@
+[
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Imitater",
+  "m_seedType": 48,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Imitater",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Imitater",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 91,
+  "m_packetIndex": 33,
+  "m_seedCost": 0,
+  "m_versusCost": 0,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "IMITATER",
+  "m_plantToolTip": "IMITATER_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "a478785d83a61c946a64cf1ea5ec3c5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "a2fe3ff81934eb6428b131aaf7b12e69",
+   "m_SubObjectName": "SPR_Preview_Imitater",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 42.0,
+   "y": -14.300000190734863
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Repeater",
+  "m_seedType": 7,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Repeater",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Repeater",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 14,
+  "m_packetIndex": 5,
+  "m_seedCost": 200,
+  "m_versusCost": 150,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 750,
+  "m_versusSuddenDeathRefreshTime": 250,
+  "m_subClass": 1,
+  "m_launchRate": 150,
+  "m_plantName": "REPEATER",
+  "m_plantToolTip": "REPEATER_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "1364f41094be19e4496cb60de8f615f7",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Repeater",
+  "m_previewSprite": {
+   "m_AssetGUID": "f6eae718721435543bee04acce7a024d",
+   "m_SubObjectName": "SPR_Preview_Repeater",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 24.0,
+   "y": -57.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-SnowPea",
+  "m_seedType": 5,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_SnowPea",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_SnowPea",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 13,
+  "m_packetIndex": 4,
+  "m_seedCost": 175,
+  "m_versusCost": 150,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 750,
+  "m_versusSuddenDeathRefreshTime": 250,
+  "m_subClass": 1,
+  "m_launchRate": 150,
+  "m_plantName": "SNOW_PEA",
+  "m_plantToolTip": "SNOW_PEA_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "1cb4a4791b03c89438e874db70abcf4f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "d782428eed3fbde4fa8e2136a590465b",
+   "m_SubObjectName": "SPR_Preview_SnowPea",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 16.100000381469727,
+   "y": -31.299999237060547
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-GatlingPea",
+  "m_seedType": 40,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_GatlingPea",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_GatlingPea",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 78,
+  "m_packetIndex": 5,
+  "m_seedCost": 250,
+  "m_versusCost": 0,
+  "m_refreshTime": 5000,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 1,
+  "m_launchRate": 150,
+  "m_plantName": "GATLING_PEA",
+  "m_plantToolTip": "GATLING_PEA_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "d360bc1779a145b45a3b9dc3df2bd0d8",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "75da1915a61313f43911fd4d149c0779",
+   "m_SubObjectName": "SPR_Preview_GatlingPea",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -2.5,
+   "y": -27.200000762939453
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombieDancer",
+  "m_seedType": 72,
+  "m_plantImage": {
+   "m_AssetGUID": "69b7777fb09034d40b96216c6750c150",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_14",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_14",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 141,
+  "m_packetIndex": 0,
+  "m_seedCost": 350,
+  "m_versusCost": 150,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 3000,
+  "m_versusSuddenDeathRefreshTime": 1000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "DANCING_ZOMBIE",
+  "m_plantToolTip": "DANCING_ZOMBIE_DESCRIPTION_HEADER",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "60812f1cd519f234fa603e89716844c0",
+   "m_SubObjectName": "SPR_Preview_Zombie_disco",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 88.0,
+   "y": -61.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-BeghouledCrater",
+  "m_seedType": 55,
+  "m_plantImage": {
+   "m_AssetGUID": "48e4fb4fac8d33f46833abd84e711594",
+   "m_SubObjectName": "SPR_Beghouled_Crater",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "48e4fb4fac8d33f46833abd84e711594",
+   "m_SubObjectName": "SPR_Beghouled_Crater",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 0,
+  "m_packetIndex": 0,
+  "m_seedCost": 200,
+  "m_versusCost": 0,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "",
+  "m_plantToolTip": "",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "",
+  "m_previewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 0.0,
+   "y": 0.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Sunflower",
+  "m_seedType": 1,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Sunflower",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Sunflower",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 7,
+  "m_packetIndex": 1,
+  "m_seedCost": 50,
+  "m_versusCost": 50,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 750,
+  "m_versusSuddenDeathRefreshTime": 750,
+  "m_subClass": 0,
+  "m_launchRate": 2500,
+  "m_plantName": "SUNFLOWER",
+  "m_plantToolTip": "SUNFLOWER_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "223b6188f4aad4646965758da56b1fa1",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 1,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "1644770c248e4ef40a23fb89c819c950",
+   "m_SubObjectName": "SPR_Preview_SunFlower",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 19.0,
+   "y": -42.70000076293945
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-MelonPult",
+  "m_seedType": 39,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Melon-pult",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Melon-pult",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 75,
+  "m_packetIndex": 14,
+  "m_seedCost": 300,
+  "m_versusCost": 300,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 1500,
+  "m_versusSuddenDeathRefreshTime": 500,
+  "m_subClass": 1,
+  "m_launchRate": 300,
+  "m_plantName": "MELON_PULT",
+  "m_plantToolTip": "MELON_PULT_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "51a9337faa32e014980cbe43f54fc99e",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "083d61bb8826a3d4ab91b88c3a6f52d1",
+   "m_SubObjectName": "SPR_Preview_Melonpult",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -98.19999694824219,
+   "y": 41.900001525878906
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombieLadder",
+  "m_seedType": 64,
+  "m_plantImage": {
+   "m_AssetGUID": "69b7777fb09034d40b96216c6750c150",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_6",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_6",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 66,
+  "m_packetIndex": 0,
+  "m_seedCost": 150,
+  "m_versusCost": 150,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 3000,
+  "m_versusSuddenDeathRefreshTime": 1000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "LADDER_ZOMBIE",
+  "m_plantToolTip": "LADDER_ZOMBIE_DESCRIPTION_HEADER",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "36c176e8f6abce1438dfcb2282950692",
+   "m_SubObjectName": "SPR_Preview_Zombie_ladder",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 98.0,
+   "y": -195.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-UmbrellaLeaf",
+  "m_seedType": 37,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_UmbrellaLeaf",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_UmbrellaLeaf",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 77,
+  "m_packetIndex": 23,
+  "m_seedCost": 100,
+  "m_versusCost": 100,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 750,
+  "m_versusSuddenDeathRefreshTime": 250,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "UMBRELLA_LEAF",
+  "m_plantToolTip": "UMBRELLA_LEAF_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "cafa309ccfc84ab49b95b60a9867e2e4",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "51ac97dcec5336e42bb6a4f06e9543e0",
+   "m_SubObjectName": "SPR_Preview_Umbrellaleaf",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 3.9000000953674316,
+   "y": -13.5
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ExplodeONut",
+  "m_seedType": 49,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Explode-o-nut",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Explode-o-nut",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 5,
+  "m_packetIndex": 2,
+  "m_seedCost": 0,
+  "m_versusCost": 0,
+  "m_refreshTime": 3000,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "EXPLODE_O_NUT",
+  "m_plantToolTip": "EXPLODE_O_NUT_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "02732679455757749aa9543099c9da5d",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 1,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "d2bafe2c462f93c43811cfa83f0db980",
+   "m_SubObjectName": "SPR_Preview_Wallnut",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 35.099998474121094,
+   "y": 15.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-IceShroom",
+  "m_seedType": 14,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Ice-shroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Ice-shroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 28,
+  "m_packetIndex": 36,
+  "m_seedCost": 75,
+  "m_versusCost": 75,
+  "m_refreshTime": 5000,
+  "m_versusBaseRefreshTime": 6000,
+  "m_versusSuddenDeathRefreshTime": 2000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "ICE_SHROOM",
+  "m_plantToolTip": "ICE_SHROOM_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "59539caee77d6864fbf63b2acf4e0fe6",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "7ee2a44a850a7504dbbbbcec3d5f82b0",
+   "m_SubObjectName": "SPR_Preview_IceShroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -5.400000095367432,
+   "y": -16.299999237060547
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombieFlag",
+  "m_seedType": 75,
+  "m_plantImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_18",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_18",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 21,
+  "m_packetIndex": 0,
+  "m_seedCost": 300,
+  "m_versusCost": 300,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 3000,
+  "m_versusSuddenDeathRefreshTime": 1000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "FLAG_ZOMBIE",
+  "m_plantToolTip": "FLAG_ZOMBIE_DESCRIPTION_HEADER",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "0827f429125899c4c8361011ba78ba37",
+   "m_SubObjectName": "SPR_Preview_Zombie_Flag",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 115.0,
+   "y": -184.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Sprout",
+  "m_seedType": 51,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_PeaShooter",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_PeaShooter",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 104,
+  "m_packetIndex": 33,
+  "m_seedCost": 0,
+  "m_versusCost": 0,
+  "m_refreshTime": 3000,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "SPROUT",
+  "m_plantToolTip": "",
+  "m_prefab": {
+   "m_AssetGUID": "eab23331ab7851f4a8bd29a223bdd861",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "8cbf886b4dcc06743987f14531bb0c5d",
+   "m_SubObjectName": "SPR_Preview_ZenGarden_Sprout",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 84.9000015258789,
+   "y": -135.60000610351562
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombieGargantuar",
+  "m_seedType": 73,
+  "m_plantImage": {
+   "m_AssetGUID": "69b7777fb09034d40b96216c6750c150",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_15",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_15",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 55,
+  "m_packetIndex": 0,
+  "m_seedCost": 300,
+  "m_versusCost": 250,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 6000,
+  "m_versusSuddenDeathRefreshTime": 2000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "GARGANTUAR",
+  "m_plantToolTip": "GARGANTUAR_DESCRIPTION_HEADER",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "14b16b6de9bf7dc40aca5ddde98e9e08",
+   "m_SubObjectName": "SPR_Preview_Zombie_gargantuar",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 158.0,
+   "y": -131.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Torchwood",
+  "m_seedType": 22,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Torchwood",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Torchwood",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 45,
+  "m_packetIndex": 29,
+  "m_seedCost": 175,
+  "m_versusCost": 125,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 750,
+  "m_versusSuddenDeathRefreshTime": 250,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "TORCHWOOD",
+  "m_plantToolTip": "TORCHWOOD_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "3a2b6972dbbffc448a5177d3ea4aac6d",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "0b4c0c414c5714b4999932925823d848",
+   "m_SubObjectName": "SPR_Preview_Torchwood",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 12.300000190734863,
+   "y": 60.20000076293945
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-HypnoShroom",
+  "m_seedType": 12,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Hypno-shroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Hypno-shroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 19,
+  "m_packetIndex": 10,
+  "m_seedCost": 75,
+  "m_versusCost": 75,
+  "m_refreshTime": 3000,
+  "m_versusBaseRefreshTime": 3000,
+  "m_versusSuddenDeathRefreshTime": 1000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "HYPNO_SHROOM",
+  "m_plantToolTip": "HYPNO_SHROOM_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "093534391b0ed4748864bb8b7a995476",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "678c7ffa815574e4a967ab4cee80621b",
+   "m_SubObjectName": "SPR_Preview_HypnoShroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 33.599998474121094,
+   "y": -1.5
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Spikerock",
+  "m_seedType": 46,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Spikerock",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Spikerock",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 25,
+  "m_packetIndex": 27,
+  "m_seedCost": 125,
+  "m_versusCost": 0,
+  "m_refreshTime": 5000,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "SPIKEROCK",
+  "m_plantToolTip": "SPIKEROCK_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "d332c02a7e9230b49af67ea63247e246",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "878964755e198c04a9b8778f4719249d",
+   "m_SubObjectName": "SPR_Preview_SpikeRock",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -10.600000381469727,
+   "y": -103.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombieImp",
+  "m_seedType": 74,
+  "m_plantImage": {
+   "m_AssetGUID": "69b7777fb09034d40b96216c6750c150",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_16",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_16",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 56,
+  "m_packetIndex": 0,
+  "m_seedCost": 50,
+  "m_versusCost": 0,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "IMP",
+  "m_plantToolTip": "IMP_DESCRIPTION_HEADER",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "a7fe9692055d663469f0b1c0981dcf55",
+   "m_SubObjectName": "SPR_Preview_Zombie_imp",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 164.0,
+   "y": -254.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-WallNut",
+  "m_seedType": 3,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Wall-Nut",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Wall-Nut",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 5,
+  "m_packetIndex": 2,
+  "m_seedCost": 50,
+  "m_versusCost": 50,
+  "m_refreshTime": 3000,
+  "m_versusBaseRefreshTime": 3000,
+  "m_versusSuddenDeathRefreshTime": 3000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "WALL_NUT",
+  "m_plantToolTip": "WALL_NUT_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "02732679455757749aa9543099c9da5d",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 1,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "d2bafe2c462f93c43811cfa83f0db980",
+   "m_SubObjectName": "SPR_Preview_Wallnut",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 35.099998474121094,
+   "y": 15.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "cc99499a9c7fef74e891185cc669a1bf",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 10.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-TwinSunflower",
+  "m_seedType": 41,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_TwinSunflower",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_TwinSunflower",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 87,
+  "m_packetIndex": 1,
+  "m_seedCost": 150,
+  "m_versusCost": 0,
+  "m_refreshTime": 5000,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 2500,
+  "m_plantName": "TWIN_SUNFLOWER",
+  "m_plantToolTip": "TWIN_SUNFLOWER_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "b11f5d8af1d50d44b9ff7cc8e23d18d3",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "0717c6781d6f05c4daabca75dd2edd7b",
+   "m_SubObjectName": "SPR_Preview_TwinSunflower",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -21.299999237060547,
+   "y": 19.100000381469727
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-GraveBuster",
+  "m_seedType": 11,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_GraveBuster",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_GraveBuster",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 69,
+  "m_packetIndex": 40,
+  "m_seedCost": 75,
+  "m_versusCost": 75,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 3000,
+  "m_versusSuddenDeathRefreshTime": 5000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "GRAVE_BUSTER",
+  "m_plantToolTip": "GRAVE_BUSTER_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "9a8b3dd3a8dfeb6439ef24b9bab2cf59",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "3eac78e76decdaa40957f3460d6a6c67",
+   "m_SubObjectName": "SPR_Preview_Gravebuster",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -36.599998474121094,
+   "y": 21.299999237060547
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Threepeater",
+  "m_seedType": 18,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Threepeater",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Threepeater",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 26,
+  "m_packetIndex": 12,
+  "m_seedCost": 325,
+  "m_versusCost": 200,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 1500,
+  "m_versusSuddenDeathRefreshTime": 500,
+  "m_subClass": 1,
+  "m_launchRate": 150,
+  "m_plantName": "THREEPEATER",
+  "m_plantToolTip": "THREEPEATER_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "8e5d3a5cbfc55e24686d32532dec3d28",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "7b2db318d6230a748bf4832cd42b970a",
+   "m_SubObjectName": "SPR_Preview_ThreePeater",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 17.299999237060547,
+   "y": -3.5999999046325684
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-GiantWallnut",
+  "m_seedType": 50,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_GiantWallnut",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_GiantWallnut",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 5,
+  "m_packetIndex": 2,
+  "m_seedCost": 0,
+  "m_versusCost": 0,
+  "m_refreshTime": 3000,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "GIANT_WALLNUT",
+  "m_plantToolTip": "",
+  "m_prefab": {
+   "m_AssetGUID": "02732679455757749aa9543099c9da5d",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "d2bafe2c462f93c43811cfa83f0db980",
+   "m_SubObjectName": "SPR_Preview_Wallnut",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -81.0,
+   "y": 72.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-MagnetShroom",
+  "m_seedType": 31,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Magnet-shroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Magnet-shroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 71,
+  "m_packetIndex": 35,
+  "m_seedCost": 100,
+  "m_versusCost": 100,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 750,
+  "m_versusSuddenDeathRefreshTime": 250,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "MAGNET_SHROOM",
+  "m_plantToolTip": "MAGNET_SHROOM_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "279ccd85d61753e439cab6f577a890e1",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "90046ee27768f054da70c6cc9807a79b",
+   "m_SubObjectName": "SPR_Preview_MagnetShroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 23.0,
+   "y": 0.10000000149011612
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Peashooter",
+  "m_seedType": 0,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_PeaShooter",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_PeaShooter",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 4,
+  "m_packetIndex": 0,
+  "m_seedCost": 100,
+  "m_versusCost": 100,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 750,
+  "m_versusSuddenDeathRefreshTime": 250,
+  "m_subClass": 1,
+  "m_launchRate": 150,
+  "m_plantName": "PEASHOOTER",
+  "m_plantToolTip": "PEASHOOTER_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "1364f41094be19e4496cb60de8f615f7",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 1,
+  "m_defaultSkin": "PeaShooter",
+  "m_previewSprite": {
+   "m_AssetGUID": "1bd88713bc6e46a47ba89ec474c80ca6",
+   "m_SubObjectName": "SPR_Preview_PeaShooter",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 24.0,
+   "y": -57.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "21e0f31e8cc67eb4598b9036f1f9a06d",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "6319440208ecb544994b8ed5603306da",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 3.5
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Starfruit",
+  "m_seedType": 29,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Starfruit",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Starfruit",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 52,
+  "m_packetIndex": 30,
+  "m_seedCost": 125,
+  "m_versusCost": 175,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 1500,
+  "m_versusSuddenDeathRefreshTime": 500,
+  "m_subClass": 1,
+  "m_launchRate": 150,
+  "m_plantName": "STARFRUIT",
+  "m_plantToolTip": "STARFRUIT_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "20200e04f647fe64ba2893e0ed396bd8",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "4f96f83c1df77884199f3624c919bc57",
+   "m_SubObjectName": "SPR_Preview_StarFruit",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 6.699999809265137,
+   "y": -15.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Garlic",
+  "m_seedType": 36,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Garlic",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Garlic",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 84,
+  "m_packetIndex": 8,
+  "m_seedCost": 50,
+  "m_versusCost": 75,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 750,
+  "m_versusSuddenDeathRefreshTime": 250,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "GARLIC",
+  "m_plantToolTip": "GARLIC_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "65e1924369a308646a4d8c65bada2dae",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "72951220e552a864996b82c59c2c125b",
+   "m_SubObjectName": "SPR_Preview_Garlic",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 29.700000762939453,
+   "y": -45.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombieNewspaper",
+  "m_seedType": 77,
+  "m_plantImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_26",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_26",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 30,
+  "m_packetIndex": 0,
+  "m_seedCost": 50,
+  "m_versusCost": 50,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 1500,
+  "m_versusSuddenDeathRefreshTime": 500,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "NEWSPAPER_ZOMBIE",
+  "m_plantToolTip": "NEWSPAPER_ZOMBIE_DESCRIPTION_HEADER",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "86df888e3dcda77418578b79262c9088",
+   "m_SubObjectName": "SPR_Preview_Zombie_paper",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-FumeShroom",
+  "m_seedType": 10,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Fume-shroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Fume-shroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 17,
+  "m_packetIndex": 9,
+  "m_seedCost": 75,
+  "m_versusCost": 75,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 750,
+  "m_versusSuddenDeathRefreshTime": 250,
+  "m_subClass": 1,
+  "m_launchRate": 150,
+  "m_plantName": "FUME_SHROOM",
+  "m_plantToolTip": "FUME_SHROOM_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "45cff9202ea55ec428b83a4e5f28da23",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "cd277716fc8c21147b67146dc327b360",
+   "m_SubObjectName": "SPR_Preview_FumeShroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 13.399999618530273,
+   "y": 4.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombiePail",
+  "m_seedType": 63,
+  "m_plantImage": {
+   "m_AssetGUID": "69b7777fb09034d40b96216c6750c150",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_5",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_5",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 21,
+  "m_packetIndex": 0,
+  "m_seedCost": 125,
+  "m_versusCost": 100,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 3000,
+  "m_versusSuddenDeathRefreshTime": 1000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "BUCKETHEAD_ZOMBIE",
+  "m_plantToolTip": "BUCKETHEAD_ZOMBIE_DESCRIPTION_HEADER",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Pail",
+  "m_previewSprite": {
+   "m_AssetGUID": "9a90234b638abb34dbae9d26147be0ca",
+   "m_SubObjectName": "SPR_Preview_Zombie_Pail",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 104.0,
+   "y": -167.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Blover",
+  "m_seedType": 27,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Blover",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Blover",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 48,
+  "m_packetIndex": 18,
+  "m_seedCost": 100,
+  "m_versusCost": 100,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "BLOVER",
+  "m_plantToolTip": "BLOVER_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "3ee6d315cde53ef4ea50785ebc9e855d",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "3592e21d35a4a174aaad91c18c8a4339",
+   "m_SubObjectName": "SPR_Preview_Blover",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -8.0,
+   "y": 16.600000381469727
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Jalapeno",
+  "m_seedType": 20,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Jalapeno",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Jalapeno",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 33,
+  "m_packetIndex": 11,
+  "m_seedCost": 125,
+  "m_versusCost": 125,
+  "m_refreshTime": 5000,
+  "m_versusBaseRefreshTime": 6000,
+  "m_versusSuddenDeathRefreshTime": 2000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "JALAPENO",
+  "m_plantToolTip": "JALAPENO_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "d60a4caf151dd2b4a9aa7ef44a7fe88c",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "3f5332c760df7ed49a40adf726702e6a",
+   "m_SubObjectName": "SPR_Preview_Jalapeno",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 44.0,
+   "y": -3.5
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Cattail",
+  "m_seedType": 43,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Cattail",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Cattail",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 79,
+  "m_packetIndex": 27,
+  "m_seedCost": 225,
+  "m_versusCost": 0,
+  "m_refreshTime": 5000,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 1,
+  "m_launchRate": 150,
+  "m_plantName": "CATTAIL",
+  "m_plantToolTip": "CATTAIL_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "a72d51dc6fafb074ca956ec848136bb3",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "aa91b038bd5f5bd4fa0ab8229d0bf270",
+   "m_SubObjectName": "SPR_Preview_Cattail",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -23.0,
+   "y": -13.5
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ScaredyShroom",
+  "m_seedType": 13,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Scaredy-shroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Scaredy-shroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 42,
+  "m_packetIndex": 33,
+  "m_seedCost": 25,
+  "m_versusCost": 25,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 750,
+  "m_versusSuddenDeathRefreshTime": 250,
+  "m_subClass": 1,
+  "m_launchRate": 150,
+  "m_plantName": "SCAREDY_SHROOM",
+  "m_plantToolTip": "SCAREDY_SHROOM_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "b98d25f5d68f1244ba8e30320a3f75ab",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "32b43e437efef75418ec4d362ba397ed",
+   "m_SubObjectName": "SPR_Preview_ScaredyShroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 14.100000381469727,
+   "y": -25.899999618530273
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombieBungee",
+  "m_seedType": 66,
+  "m_plantImage": {
+   "m_AssetGUID": "69b7777fb09034d40b96216c6750c150",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_8",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_8",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 64,
+  "m_packetIndex": 0,
+  "m_seedCost": 125,
+  "m_versusCost": 125,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 3000,
+  "m_versusSuddenDeathRefreshTime": 1000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "BUNGEE_ZOMBIE",
+  "m_plantToolTip": "BUNGEE_ZOMBIE_DESCRIPTION_HEADER",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "ebdd115a537bbdb48b4e6eab2994ad3a",
+   "m_SubObjectName": "SPR_Preview_Zombie_bungi",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 150.0,
+   "y": -132.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-SplitPea",
+  "m_seedType": 28,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_SplitPea",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_SplitPea",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 46,
+  "m_packetIndex": 32,
+  "m_seedCost": 125,
+  "m_versusCost": 125,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 750,
+  "m_versusSuddenDeathRefreshTime": 250,
+  "m_subClass": 1,
+  "m_launchRate": 150,
+  "m_plantName": "SPLIT_PEA",
+  "m_plantToolTip": "SPLIT_PEA_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "baf7255d833b8634b8daa8f4e6692db1",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "a0dd374f17a39c1408cebc5557924485",
+   "m_SubObjectName": "SPR_Preview_SplitPea",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -38.79999923706055,
+   "y": -42.20000076293945
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-LilyPad",
+  "m_seedType": 16,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_LilyPad",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_LilyPad",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 6,
+  "m_packetIndex": 19,
+  "m_seedCost": 25,
+  "m_versusCost": 25,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "LILY_PAD",
+  "m_plantToolTip": "LILY_PAD_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "819878945a5381a4a8843c601b834da2",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "24a81bb4653b23b448826bc0c44af543",
+   "m_SubObjectName": "SPR_Preview_LilyPad",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 1.7000000476837158,
+   "y": -48.599998474121094
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombiquariumSnorkel",
+  "m_seedType": 58,
+  "m_plantImage": {
+   "m_AssetGUID": "48e4fb4fac8d33f46833abd84e711594",
+   "m_SubObjectName": "SPR_Zombiquarium_Snorkel",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "48e4fb4fac8d33f46833abd84e711594",
+   "m_SubObjectName": "SPR_Zombiquarium_Snorkel",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 0,
+  "m_packetIndex": 0,
+  "m_seedCost": 100,
+  "m_versusCost": 0,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "",
+  "m_plantToolTip": "",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "",
+  "m_previewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 0.0,
+   "y": 0.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Squash",
+  "m_seedType": 17,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Squash",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Squash",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 11,
+  "m_packetIndex": 21,
+  "m_seedCost": 50,
+  "m_versusCost": 75,
+  "m_refreshTime": 3000,
+  "m_versusBaseRefreshTime": 3000,
+  "m_versusSuddenDeathRefreshTime": 1000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "SQUASH",
+  "m_plantToolTip": "SQUASH_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "c7cb772ebf633a94a810bed88433ee6c",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "fcf0092e97a1e634bafab5cf29eb958e",
+   "m_SubObjectName": "SPR_Preview_Squash",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 10.600000381469727,
+   "y": 0.30000001192092896
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Chomper",
+  "m_seedType": 6,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Chomper",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Chomper",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 20,
+  "m_packetIndex": 31,
+  "m_seedCost": 150,
+  "m_versusCost": 150,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 750,
+  "m_versusSuddenDeathRefreshTime": 750,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "CHOMPER",
+  "m_plantToolTip": "CHOMPER_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "1a2867fdf54b998498018fc6f1b3dfe6",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "d33dd3241adb85844ac3d53a6cfc3e6c",
+   "m_SubObjectName": "SPR_Preview_Chomper",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -16.299999237060547,
+   "y": 26.700000762939453
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Zomboni",
+  "m_seedType": 70,
+  "m_plantImage": {
+   "m_AssetGUID": "69b7777fb09034d40b96216c6750c150",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_12",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_12",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 31,
+  "m_packetIndex": 0,
+  "m_seedCost": 175,
+  "m_versusCost": 175,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 6000,
+  "m_versusSuddenDeathRefreshTime": 2000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "ZOMBONI",
+  "m_plantToolTip": "ZOMBONI_DESCRIPTION_HEADER",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "3da2e918fefedfb45bb7a992c09e540a",
+   "m_SubObjectName": "SPR_Preview_Zombie_zamboni",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -185.0,
+   "y": -268.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-SlotMachineDiamond",
+  "m_seedType": 57,
+  "m_plantImage": {
+   "m_AssetGUID": "48e4fb4fac8d33f46833abd84e711594",
+   "m_SubObjectName": "SPR_SlotMachine_Diamond",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "48e4fb4fac8d33f46833abd84e711594",
+   "m_SubObjectName": "SPR_SlotMachine_Diamond",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 0,
+  "m_packetIndex": 0,
+  "m_seedCost": 0,
+  "m_versusCost": 0,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "",
+  "m_plantToolTip": "",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "",
+  "m_previewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 0.0,
+   "y": 0.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-SeaShroom",
+  "m_seedType": 24,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Sea-shroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Sea-shroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 47,
+  "m_packetIndex": 39,
+  "m_seedCost": 0,
+  "m_versusCost": 0,
+  "m_refreshTime": 3000,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 1,
+  "m_launchRate": 150,
+  "m_plantName": "SEA_SHROOM",
+  "m_plantToolTip": "SEA_SHROOM_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "96a9e493dff8adc4aa49059f4fa2f2a8",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "d56ccba685ca93645b1a13320a990a58",
+   "m_SubObjectName": "SPR_Preview_SeaShroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 44.20000076293945,
+   "y": -52.599998474121094
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombieScreenDoor",
+  "m_seedType": 69,
+  "m_plantImage": {
+   "m_AssetGUID": "69b7777fb09034d40b96216c6750c150",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_11",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_11",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 21,
+  "m_packetIndex": 0,
+  "m_seedCost": 100,
+  "m_versusCost": 100,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 1500,
+  "m_versusSuddenDeathRefreshTime": 1500,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "SCREEN_DOOR_ZOMBIE",
+  "m_plantToolTip": "SCREEN_DOOR_ZOMBIE_DESCRIPTION_HEADER",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Screendoor",
+  "m_previewSprite": {
+   "m_AssetGUID": "5377064021d68824990500fe6fcfdb89",
+   "m_SubObjectName": "SPR_Preview_Zombie_Door",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 100.0,
+   "y": -191.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-TangleKelp",
+  "m_seedType": 19,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_TangleKelp",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_TangleKelp",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 51,
+  "m_packetIndex": 17,
+  "m_seedCost": 25,
+  "m_versusCost": 25,
+  "m_refreshTime": 3000,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "TANGLE_KELP",
+  "m_plantToolTip": "TANGLE_KELP_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "6caeedcf195413a41874719653bacd96",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "d195b871fce29a84d9238c875118398e",
+   "m_SubObjectName": "SPR_Preview_Tanglekelp",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -17.299999237060547,
+   "y": -27.799999237060547
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombiePolevaulter",
+  "m_seedType": 62,
+  "m_plantImage": {
+   "m_AssetGUID": "69b7777fb09034d40b96216c6750c150",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_4",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_4",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 53,
+  "m_packetIndex": 0,
+  "m_seedCost": 75,
+  "m_versusCost": 100,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 3000,
+  "m_versusSuddenDeathRefreshTime": 1000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "POLE_VAULTING_ZOMBIE",
+  "m_plantToolTip": "POLE_VAULTING_ZOMBIE_DESCRIPTION_HEADER",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "6bc7ed1a3eb489943a8674e1a7db5d64",
+   "m_SubObjectName": "SPR_Preview_Zombie_polevaulter",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 45.0,
+   "y": -231.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombiePogo",
+  "m_seedType": 71,
+  "m_plantImage": {
+   "m_AssetGUID": "69b7777fb09034d40b96216c6750c150",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_13",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_13",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 60,
+  "m_packetIndex": 0,
+  "m_seedCost": 200,
+  "m_versusCost": 225,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 6000,
+  "m_versusSuddenDeathRefreshTime": 2000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "POGO_ZOMBIE",
+  "m_plantToolTip": "POGO_ZOMBIE_DESCRIPTION_HEADER",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "41e52c4ba6669c54492e9080288b866d",
+   "m_SubObjectName": "SPR_Preview_Zombie_pogo",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 115.0,
+   "y": -158.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombieCatapult",
+  "m_seedType": 79,
+  "m_plantImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_29",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_29",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 65,
+  "m_packetIndex": 0,
+  "m_seedCost": 200,
+  "m_versusCost": 200,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 6000,
+  "m_versusSuddenDeathRefreshTime": 2000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "CATAPULT_ZOMBIE",
+  "m_plantToolTip": "CATAPULT_ZOMBIE_DESCRIPTION_HEADER",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "01cd6a19773c1fe4faa323125b4020e7",
+   "m_SubObjectName": "SPR_Preview_Zombie_catapult",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Plantern",
+  "m_seedType": 25,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Plantern",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Plantern",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 44,
+  "m_packetIndex": 38,
+  "m_seedCost": 25,
+  "m_versusCost": 25,
+  "m_refreshTime": 3000,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 2500,
+  "m_plantName": "PLANTERN",
+  "m_plantToolTip": "PLANTERN_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "c34ae834854aa2342bce06e61779bc29",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "3968d5ec397101743b01f69811239515",
+   "m_SubObjectName": "SPR_Preview_Plantern",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -7.300000190734863,
+   "y": 11.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-SlotMachineSun",
+  "m_seedType": 56,
+  "m_plantImage": {
+   "m_AssetGUID": "48e4fb4fac8d33f46833abd84e711594",
+   "m_SubObjectName": "SPR_SlotMachine_Sun",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "48e4fb4fac8d33f46833abd84e711594",
+   "m_SubObjectName": "SPR_SlotMachine_Sun",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 0,
+  "m_packetIndex": 0,
+  "m_seedCost": 0,
+  "m_versusCost": 0,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "",
+  "m_plantToolTip": "",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "",
+  "m_previewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 0.0,
+   "y": 0.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-TallNut",
+  "m_seedType": 23,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Tall-nut",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Tall-nut",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 16,
+  "m_packetIndex": 28,
+  "m_seedCost": 125,
+  "m_versusCost": 125,
+  "m_refreshTime": 3000,
+  "m_versusBaseRefreshTime": 3000,
+  "m_versusSuddenDeathRefreshTime": 3000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "TALL_NUT",
+  "m_plantToolTip": "TALL_NUT_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "c5d533a7b158ba64c9203114241e464f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "5552b12f82bdcf5488cb4955a4baacd7",
+   "m_SubObjectName": "SPR_Preview_Tallnut",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 0.20000000298023224,
+   "y": 104.69999694824219
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Pumpkin",
+  "m_seedType": 30,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Pumpkin",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Pumpkin",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 43,
+  "m_packetIndex": 25,
+  "m_seedCost": 125,
+  "m_versusCost": 125,
+  "m_refreshTime": 3000,
+  "m_versusBaseRefreshTime": 3000,
+  "m_versusSuddenDeathRefreshTime": 3000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "PUMPKIN",
+  "m_plantToolTip": "PUMPKIN_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "4ea512e134629bb41a11d2634f79aeed",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "9ab50f2cad772b94786c0a87efbc8547",
+   "m_SubObjectName": "SPR_Preview_Pumpkin",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -17.100000381469727,
+   "y": -36.20000076293945
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-CoffeeBean",
+  "m_seedType": 35,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_CoffeeBean",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_CoffeeBean",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 76,
+  "m_packetIndex": 33,
+  "m_seedCost": 75,
+  "m_versusCost": 25,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 750,
+  "m_versusSuddenDeathRefreshTime": 250,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "COFFEE_BEAN",
+  "m_plantToolTip": "COFFEE_BEAN_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "baa5526f90c56cd4eb7f54e0b389ddb8",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "f5e2f1b873921f245b017a4255589afd",
+   "m_SubObjectName": "SPR_Preview_CoffeeBean",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 55.400001525878906,
+   "y": 0.5
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombieTrafficCone",
+  "m_seedType": 61,
+  "m_plantImage": {
+   "m_AssetGUID": "69b7777fb09034d40b96216c6750c150",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_3",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_3",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 21,
+  "m_packetIndex": 0,
+  "m_seedCost": 75,
+  "m_versusCost": 75,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 3000,
+  "m_versusSuddenDeathRefreshTime": 1000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "CONEHEAD_ZOMBIE",
+  "m_plantToolTip": "CONEHEAD_ZOMBIE_DESCRIPTION_HEADER",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Cone",
+  "m_previewSprite": {
+   "m_AssetGUID": "4adb9aa1992045843af2a44dc6146813",
+   "m_SubObjectName": "SPR_Preview_Zombie_Cone",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 114.0,
+   "y": -156.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-CherryBomb",
+  "m_seedType": 2,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_CherryBomb",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_CherryBomb",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 10,
+  "m_packetIndex": 3,
+  "m_seedCost": 150,
+  "m_versusCost": 150,
+  "m_refreshTime": 5000,
+  "m_versusBaseRefreshTime": 6000,
+  "m_versusSuddenDeathRefreshTime": 2000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "CHERRY_BOMB",
+  "m_plantToolTip": "CHERRY_BOMB_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "bdf21b148008aa247a67f0c990a46f0e",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 1,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "6ddcb8a9ec5ec4f4dbb662d9abdbbad9",
+   "m_SubObjectName": "SPR_Preview_Cherrybomb",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 12.899999618530273,
+   "y": -27.700000762939453
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Marigold",
+  "m_seedType": 38,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Marigold",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Marigold",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 27,
+  "m_packetIndex": 24,
+  "m_seedCost": 50,
+  "m_versusCost": 50,
+  "m_refreshTime": 3000,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 2500,
+  "m_plantName": "MARIGOLD",
+  "m_plantToolTip": "MARIGOLD_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "2c668f676295c624dbb8c4f64716ea35",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "ce2c011319622ae4f885e63294b97dcc",
+   "m_SubObjectName": "SPR_Preview_Marigold",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 38.29999923706055,
+   "y": -19.899999618530273
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-PotatoMine",
+  "m_seedType": 4,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_PotatoMine",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_PotatoMine",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 23,
+  "m_packetIndex": 37,
+  "m_seedCost": 25,
+  "m_versusCost": 25,
+  "m_refreshTime": 3000,
+  "m_versusBaseRefreshTime": 3000,
+  "m_versusSuddenDeathRefreshTime": 1000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "POTATO_MINE",
+  "m_plantToolTip": "POTATO_MINE_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "d94a8d9d2ece4cf478df33d2e6aace6f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "1e8354cb374f4c740b72158cbf427083",
+   "m_SubObjectName": "SPR_Preview_PotatoMine",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 9.899999618530273,
+   "y": -65.80000305175781
+  },
+  "m_previewSpriteScale": 0.800000011920929,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombieDigger",
+  "m_seedType": 65,
+  "m_plantImage": {
+   "m_AssetGUID": "69b7777fb09034d40b96216c6750c150",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_7",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_7",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 57,
+  "m_packetIndex": 0,
+  "m_seedCost": 125,
+  "m_versusCost": 150,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 3000,
+  "m_versusSuddenDeathRefreshTime": 1000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "DIGGER_ZOMBIE",
+  "m_plantToolTip": "DIGGER_ZOMBIE_DESCRIPTION_HEADER",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "4ac6c2a73254fed478e7188322c133f5",
+   "m_SubObjectName": "SPR_Preview_Zombie_digger",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 127.0,
+   "y": -157.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombieJackInTheBox",
+  "m_seedType": 78,
+  "m_plantImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_25",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_25",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 62,
+  "m_packetIndex": 0,
+  "m_seedCost": 100,
+  "m_versusCost": 100,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 3000,
+  "m_versusSuddenDeathRefreshTime": 1000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "JACK_IN_THE_BOX_ZOMBIE",
+  "m_plantToolTip": "JACK_IN_THE_BOX_ZOMBIE_DESCRIPTION_HEADER",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "d1bab5f5af8ca614d83a8b66913df843",
+   "m_SubObjectName": "SPR_Preview_Zombie_jackbox",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -4.0,
+   "y": 90.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombiquariumTrophy",
+  "m_seedType": 59,
+  "m_plantImage": {
+   "m_AssetGUID": "48e4fb4fac8d33f46833abd84e711594",
+   "m_SubObjectName": "SPR_Zombiquarium_Trophy",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "48e4fb4fac8d33f46833abd84e711594",
+   "m_SubObjectName": "SPR_Zombiquarium_Trophy",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 0,
+  "m_packetIndex": 0,
+  "m_seedCost": 1000,
+  "m_versusCost": 0,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "",
+  "m_plantToolTip": "",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "",
+  "m_previewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 0.0,
+   "y": 0.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-FlowerPot",
+  "m_seedType": 33,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_FlowerPot",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_FlowerPot",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_FlowerPot_China",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_animationType": 49,
+  "m_packetIndex": 33,
+  "m_seedCost": 25,
+  "m_versusCost": 25,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "FLOWER_POT",
+  "m_plantToolTip": "FLOWER_POT_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "a13f69fe9685c0143b93c567c6cc4772",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "6f2e4f24db30246469282b245969d5b8",
+   "m_SubObjectName": "SPR_Preview_FlowerPot",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "90c22d53283308a40ad33f1add908d17",
+   "m_SubObjectName": "SPR_Preview_FlowerPot_Chinese",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_previewSpriteOffset": {
+   "x": 18.799999237060547,
+   "y": -17.299999237060547
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "921c7c46996158c4493c152ab6e1e34d",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-GloomShroom",
+  "m_seedType": 42,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Gloom-shroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Gloom-shroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 80,
+  "m_packetIndex": 27,
+  "m_seedCost": 150,
+  "m_versusCost": 0,
+  "m_refreshTime": 5000,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 1,
+  "m_launchRate": 200,
+  "m_plantName": "GLOOM_SHROOM",
+  "m_plantToolTip": "GLOOM_SHROOM_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "41ff2c5e9aca8164b8069a6ea0ebfc36",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "f9ec8c35191a8da42b2f0bc3170c57b2",
+   "m_SubObjectName": "SPR_Preview_GloomShroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -12.899999618530273,
+   "y": -1.5
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Cactus",
+  "m_seedType": 26,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Cactus",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Cactus",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 50,
+  "m_packetIndex": 15,
+  "m_seedCost": 125,
+  "m_versusCost": 100,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 750,
+  "m_versusSuddenDeathRefreshTime": 250,
+  "m_subClass": 1,
+  "m_launchRate": 150,
+  "m_plantName": "CACTUS",
+  "m_plantToolTip": "CACTUS_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "0dc3d13a133f67941adecaab0ba09d27",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "4b5a612de6a1f8342a8e55c3243f20a0",
+   "m_SubObjectName": "SPR_Preview_Cactus",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -35.099998474121094,
+   "y": 6.400000095367432
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Leftpeater",
+  "m_seedType": 52,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Leftpeater",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Leftpeater",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 14,
+  "m_packetIndex": 5,
+  "m_seedCost": 200,
+  "m_versusCost": 0,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 1,
+  "m_launchRate": 150,
+  "m_plantName": "LEFTPEATER",
+  "m_plantToolTip": "",
+  "m_prefab": {
+   "m_AssetGUID": "1364f41094be19e4496cb60de8f615f7",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Repeater",
+  "m_previewSprite": {
+   "m_AssetGUID": "8868695f2702d4141a8c4e4fcd311779",
+   "m_SubObjectName": "SPR_Preview_Leftpeater",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 24.0,
+   "y": -57.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-DoomShroom",
+  "m_seedType": 15,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Doom-shroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Doom-shroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 12,
+  "m_packetIndex": 20,
+  "m_seedCost": 125,
+  "m_versusCost": 125,
+  "m_refreshTime": 5000,
+  "m_versusBaseRefreshTime": 6000,
+  "m_versusSuddenDeathRefreshTime": 2000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "DOOM_SHROOM",
+  "m_plantToolTip": "DOOM_SHROOM_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "17c3b2742b69e3d409674472804877fe",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "e5a96f4e6d050034989a54be75809339",
+   "m_SubObjectName": "SPR_Preview_DoomShroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 0.0,
+   "y": 0.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-BeghouledButtonShuffle",
+  "m_seedType": 54,
+  "m_plantImage": {
+   "m_AssetGUID": "48e4fb4fac8d33f46833abd84e711594",
+   "m_SubObjectName": "SPR_Beghouled_Refresh",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "48e4fb4fac8d33f46833abd84e711594",
+   "m_SubObjectName": "SPR_Beghouled_Refresh",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 0,
+  "m_packetIndex": 0,
+  "m_seedCost": 100,
+  "m_versusCost": 0,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "",
+  "m_plantToolTip": "",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "",
+  "m_previewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 0.0,
+   "y": 0.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-CobCannon",
+  "m_seedType": 47,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_CobCannon",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_CobCannon",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 83,
+  "m_packetIndex": 16,
+  "m_seedCost": 500,
+  "m_versusCost": 0,
+  "m_refreshTime": 5000,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 600,
+  "m_plantName": "COB_CANNON",
+  "m_plantToolTip": "COB_CANNON_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "d33bb99b2aec95c46813307cb0a02b31",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "adbbd7a6904ce8a4ab174386730a1dfe",
+   "m_SubObjectName": "SPR_Preview_CobCannon",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -37.099998474121094,
+   "y": 65.80000305175781
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombieTrashCan",
+  "m_seedType": 76,
+  "m_plantImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_19",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_19",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 21,
+  "m_packetIndex": 0,
+  "m_seedCost": 50,
+  "m_versusCost": 50,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 3000,
+  "m_versusSuddenDeathRefreshTime": 3000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "VS_MODE_TRASH_CAN_ZOMBIE",
+  "m_plantToolTip": "VS_MODE_TRASH_CAN_DESCRIPTION",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "452eeb3a5d2bd484b8bfa371fb7303a8",
+   "m_SubObjectName": "SPR_Preview_TrashCan",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 115.0,
+   "y": -184.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-CabbagePult",
+  "m_seedType": 32,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Cabbage-pult",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Cabbage-pult",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 73,
+  "m_packetIndex": 13,
+  "m_seedCost": 100,
+  "m_versusCost": 100,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 750,
+  "m_versusSuddenDeathRefreshTime": 250,
+  "m_subClass": 1,
+  "m_launchRate": 300,
+  "m_plantName": "CABBAGE_PULT",
+  "m_plantToolTip": "CABBAGE_PULT_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "64705e675b431bb42b8e58b745f61d60",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "a4d3be23b5e3d324eb44c28b55c28317",
+   "m_SubObjectName": "SPR_Preview_Cabbagepult",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -61.5,
+   "y": -3.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "a701f4f755a204c4ba99af0e4d541d58",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.6499999761581421,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombieFootball",
+  "m_seedType": 67,
+  "m_plantImage": {
+   "m_AssetGUID": "69b7777fb09034d40b96216c6750c150",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_9",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_9",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 29,
+  "m_packetIndex": 0,
+  "m_seedCost": 175,
+  "m_versusCost": 150,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 3000,
+  "m_versusSuddenDeathRefreshTime": 1000,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "FOOTBALL_ZOMBIE",
+  "m_plantToolTip": "FOOTBALL_ZOMBIE_DESCRIPTION_HEADER",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "7230c0c1517010042bd9af7cc4313387",
+   "m_SubObjectName": "SPR_Preview_Zombie_football",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 198.0,
+   "y": -227.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-SunShroom",
+  "m_seedType": 9,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Sun-shroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Sun-shroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 15,
+  "m_packetIndex": 7,
+  "m_seedCost": 25,
+  "m_versusCost": 25,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 750,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 2500,
+  "m_plantName": "SUN_SHROOM",
+  "m_plantToolTip": "SUN_SHROOM_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "fd2c173716dff69418b83885747a29d0",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "b5363d71eda7df24bbc5d4426b482326",
+   "m_SubObjectName": "SPR_Preview_SunShroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 68.0,
+   "y": -78.30000305175781
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombieBalloon",
+  "m_seedType": 68,
+  "m_plantImage": {
+   "m_AssetGUID": "69b7777fb09034d40b96216c6750c150",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_10",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_10",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 54,
+  "m_packetIndex": 0,
+  "m_seedCost": 150,
+  "m_versusCost": 0,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "BALLOON_ZOMBIE",
+  "m_plantToolTip": "BALLOON_ZOMBIE_DESCRIPTION_HEADER",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "1137ed677c9208b488544472db040062",
+   "m_SubObjectName": "SPR_Preview_Zombie_balloon",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 96.0,
+   "y": -121.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-Spikeweed",
+  "m_seedType": 21,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Spikeweed",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Spikeweed",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 24,
+  "m_packetIndex": 22,
+  "m_seedCost": 100,
+  "m_versusCost": 100,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 750,
+  "m_versusSuddenDeathRefreshTime": 250,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "SPIKEWEED",
+  "m_plantToolTip": "SPIKEWEED_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "63f23ac1681d96e4b965130d8f202cb9",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "b7c3d7328d9621e4c975425540f0d971",
+   "m_SubObjectName": "SPR_Preview_Spikeweed",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -18.100000381469727,
+   "y": -130.6999969482422
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-GoldMagnet",
+  "m_seedType": 45,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_GoldMagnet",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_GoldMagnet",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 85,
+  "m_packetIndex": 27,
+  "m_seedCost": 50,
+  "m_versusCost": 0,
+  "m_refreshTime": 5000,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "GOLD_MAGNET",
+  "m_plantToolTip": "GOLD_MAGNET_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "891ab8ec9b40a244481e67fe5263e45a",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "b807f7597ebc1fd4baccf83d157c27a9",
+   "m_SubObjectName": "SPR_Preview_GoldMagnet",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 2.5,
+   "y": -7.900000095367432
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombieNormal",
+  "m_seedType": 60,
+  "m_plantImage": {
+   "m_AssetGUID": "69b7777fb09034d40b96216c6750c150",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_2",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_2",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 21,
+  "m_packetIndex": 0,
+  "m_seedCost": 50,
+  "m_versusCost": 25,
+  "m_refreshTime": 0,
+  "m_versusBaseRefreshTime": 750,
+  "m_versusSuddenDeathRefreshTime": 250,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "ZOMBIE",
+  "m_plantToolTip": "ZOMBIE_DESCRIPTION_HEADER",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "5cf56019dae275a49a636c7019a61462",
+   "m_SubObjectName": "SPR_Preview_Zombie_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 115.0,
+   "y": -184.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-KernelPult",
+  "m_seedType": 34,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Kernel-pult",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Kernel-pult",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 74,
+  "m_packetIndex": 13,
+  "m_seedCost": 100,
+  "m_versusCost": 100,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 750,
+  "m_versusSuddenDeathRefreshTime": 250,
+  "m_subClass": 1,
+  "m_launchRate": 300,
+  "m_plantName": "KERNEL_PULT",
+  "m_plantToolTip": "KERNEL_PULT_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "33d935e52c0cad6439027dfc74e000dc",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "019791712551f8e4c949faa2948fa947",
+   "m_SubObjectName": "SPR_Preview_Kernelpult",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -66.30000305175781,
+   "y": 65.30000305175781
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-WinterMelon",
+  "m_seedType": 44,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_WinterMelon",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_WinterMelon",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 86,
+  "m_packetIndex": 27,
+  "m_seedCost": 200,
+  "m_versusCost": 0,
+  "m_refreshTime": 5000,
+  "m_versusBaseRefreshTime": 0,
+  "m_versusSuddenDeathRefreshTime": 0,
+  "m_subClass": 1,
+  "m_launchRate": 300,
+  "m_plantName": "WINTER_MELON",
+  "m_plantToolTip": "WINTER_MELON_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "49032ac289948ef44924b38a15598941",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "f282d83416b14ad45bc02bcc25f73bae",
+   "m_SubObjectName": "SPR_Preview_WinterMelon",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": -98.19999694824219,
+   "y": 50.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-PuffShroom",
+  "m_seedType": 8,
+  "m_plantImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Puff-shroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "e27c73e451154d94889daee6c05f481e",
+   "m_SubObjectName": "SPR_Almanac_Seedpackets_Puff-shroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 18,
+  "m_packetIndex": 6,
+  "m_seedCost": 0,
+  "m_versusCost": 0,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 750,
+  "m_versusSuddenDeathRefreshTime": 250,
+  "m_subClass": 1,
+  "m_launchRate": 150,
+  "m_plantName": "PUFF_SHROOM",
+  "m_plantToolTip": "PUFF_SHROOM_TOOLTIP",
+  "m_prefab": {
+   "m_AssetGUID": "23a575e89d89fea41a38a2f8795bee46",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "59d1589f375214843af222c758472139",
+   "m_SubObjectName": "SPR_Preview_PuffShroom",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 60.099998474121094,
+   "y": -80.30000305175781
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": 8107386718894591883
+  },
+  "m_Name": "PlantDefinition-ZombieGravestone",
+  "m_seedType": 80,
+  "m_plantImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_17",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_versusImage": {
+   "m_AssetGUID": "b2e616b9bbbacac4980ba6de852d1a44",
+   "m_SubObjectName": "SPR_SeedPackets_Zombies_Versus_17",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPlantImage": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_animationType": 21,
+  "m_packetIndex": 0,
+  "m_seedCost": 50,
+  "m_versusCost": 50,
+  "m_refreshTime": 750,
+  "m_versusBaseRefreshTime": 750,
+  "m_versusSuddenDeathRefreshTime": 750,
+  "m_subClass": 0,
+  "m_launchRate": 0,
+  "m_plantName": "VS_MODE_ZOMBIE_GRAVESTONE",
+  "m_plantToolTip": "VS_MODE_PRODUCE_BRAINES",
+  "m_prefab": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_preview": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryStatus": 0,
+  "m_defaultSkin": "Normal",
+  "m_previewSprite": {
+   "m_AssetGUID": "bf6c4851e8eb58242b0349d1e02818bd",
+   "m_SubObjectName": "SPR_Preview_VsTombstone",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_chinaPreviewSprite": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_previewSpriteOffset": {
+   "x": 0.0,
+   "y": 0.0
+  },
+  "m_previewSpriteScale": 1.0,
+  "m_preorderGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_chinaGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_easterEggChance100": 0.0,
+  "m_decemberGameObject": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_decemberChance100": 0.0
+ }
+]

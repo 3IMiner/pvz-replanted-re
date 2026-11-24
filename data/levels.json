@@ -1,0 +1,6847 @@
+[
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea4Level3",
+  "m_order": 32,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 33,
+  "m_gameArea": 3,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   16
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e46d5b92b87c02940a8193a9e0d410b7",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_fog",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Balloon",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Coop-RoofHard",
+  "m_order": 136,
+  "m_levelName": "$COOP_ROOF_HARD",
+  "m_gameMode": 10,
+  "m_reloadedGameMode": 2,
+  "m_levelNumber": 8,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "a5638b24fc0d98b488121ab9ee1d49ce",
+   "m_SubObjectName": "SPR_Survival_RoofHard",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 4,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 7
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-ArtChallengeWallnut",
+  "m_order": 71,
+  "m_levelName": "$ART_CHALLENGE_WALL_NUT",
+  "m_gameMode": 36,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 21,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "1885d1d6e0b32584f8c2c80770afe814",
+   "m_SubObjectName": "SPR_LimboContent_ACWalnut",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Empty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 1,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-HighGravity",
+  "m_order": 79,
+  "m_levelName": "$HIGH_GRAVITY",
+  "m_gameMode": 44,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 29,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "1885d1d6e0b32584f8c2c80770afe814",
+   "m_SubObjectName": "SPR_LimboContent_HighGravity",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Empty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 1,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-SlotMachine",
+  "m_order": 53,
+  "m_levelName": "$SLOT_MACHINE",
+  "m_gameMode": 18,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 3,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_SlotMachine",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea2Level10",
+  "m_order": 19,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 20,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   6,
+   7,
+   8,
+   9
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_night",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Empty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "NightContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Coop-PoolHard",
+  "m_order": 135,
+  "m_levelName": "$COOP_POOL_HARD",
+  "m_gameMode": 8,
+  "m_reloadedGameMode": 2,
+  "m_levelNumber": 6,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "a5638b24fc0d98b488121ab9ee1d49ce",
+   "m_SubObjectName": "SPR_Survival_PoolHard",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 4,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 5
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea4Level4",
+  "m_order": 33,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 34,
+  "m_gameArea": 3,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   14,
+   16
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e46d5b92b87c02940a8193a9e0d410b7",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_fog",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea2Level4",
+  "m_order": 13,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 14,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   3,
+   6
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_night",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "NightContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Survival-Day",
+  "m_order": 85,
+  "m_levelName": "$SURVIVAL_DAY_NORMAL",
+  "m_gameMode": 1,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 1,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "a5638b24fc0d98b488121ab9ee1d49ce",
+   "m_SubObjectName": "SPR_Survival_Day",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 3,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea4Level5",
+  "m_order": 34,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 35,
+  "m_gameArea": 3,
+  "m_zombieTypes": [
+   0,
+   1,
+   2
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 0,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Vase",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Empty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 1,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-BungeeBlitz",
+  "m_order": 83,
+  "m_levelName": "$BUNGEE_BLITZ",
+  "m_gameMode": 48,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 33,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "1885d1d6e0b32584f8c2c80770afe814",
+   "m_SubObjectName": "SPR_LimboContent_BungeeBlitz",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Empty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 1,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-ZenGarden",
+  "m_order": 50,
+  "m_levelName": "$ZEN_GARDEN",
+  "m_gameMode": 43,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 1,
+  "m_gameArea": 6,
+  "m_zombieTypes": [
+   -1
+  ],
+  "m_zombieWaves": 0,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "90c2d01105471354780252546759a687",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Puzzle-DeadZeppelin",
+  "m_order": 110,
+  "m_levelName": "$I_ZOMBIE_5",
+  "m_gameMode": 65,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 15,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 150,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_Puzzle_Zombies",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 2,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Coop-WallnutBowling",
+  "m_order": 132,
+  "m_levelName": "$WALL_NUT_BOWLING",
+  "m_gameMode": 17,
+  "m_reloadedGameMode": 2,
+  "m_levelNumber": 9,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_Wall-NutBowling",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 4,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 8
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea3Level2",
+  "m_order": 21,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 22,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   4,
+   5,
+   7
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_pool",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "PoolContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea2Level1",
+  "m_order": 10,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 11,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0,
+   1,
+   5
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_night",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Newspaper",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "NightContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Puzzle-ZomBoogie",
+  "m_order": 112,
+  "m_levelName": "$I_ZOMBIE_7",
+  "m_gameMode": 67,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 17,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 150,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_Puzzle_Zombies",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 2,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-GraveDanger",
+  "m_order": 80,
+  "m_levelName": "$GRAVE_DANGER",
+  "m_gameMode": 45,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 30,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 150,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "1885d1d6e0b32584f8c2c80770afe814",
+   "m_SubObjectName": "SPR_LimboContent_GraveDigger",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Empty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 1,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Survival-FogHard",
+  "m_order": 93,
+  "m_levelName": "$SURVIVAL_FOG_HARD",
+  "m_gameMode": 9,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 9,
+  "m_gameArea": 3,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e46d5b92b87c02940a8193a9e0d410b7",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "a5638b24fc0d98b488121ab9ee1d49ce",
+   "m_SubObjectName": "SPR_Survival_FogHard",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 3,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Survival-FogEndless",
+  "m_order": 144,
+  "m_levelName": "$SURVIVAL_FOG_ENDLESS",
+  "m_gameMode": 14,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 14,
+  "m_gameArea": 3,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e46d5b92b87c02940a8193a9e0d410b7",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "9a51438e978a2ce4c925963496655da3",
+   "m_SubObjectName": "SPR_Endless_Thumbnails_Fog",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 3,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Coop-Pool",
+  "m_order": 130,
+  "m_levelName": "$COOP_POOL",
+  "m_gameMode": 74,
+  "m_reloadedGameMode": 2,
+  "m_levelNumber": 5,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   12,
+   13,
+   14,
+   8,
+   9
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_pool",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 4,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 4
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea2Level6",
+  "m_order": 15,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 16,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   7
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_night",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Football",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "NightContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-BeghouledTwist",
+  "m_order": 59,
+  "m_levelName": "$BEGHOULED_TWIST",
+  "m_gameMode": 24,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 9,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 0,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_BeghouledTwist",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Coop-NightHard",
+  "m_order": 134,
+  "m_levelName": "$COOP_NIGHT_HARD",
+  "m_gameMode": 7,
+  "m_reloadedGameMode": 2,
+  "m_levelNumber": 4,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "a5638b24fc0d98b488121ab9ee1d49ce",
+   "m_SubObjectName": "SPR_Survival_NightHard",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 4,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 3
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-ArtChallengeSunflower",
+  "m_order": 75,
+  "m_levelName": "$ART_CHALLENGE_SUNFLOWER",
+  "m_gameMode": 40,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 25,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "1885d1d6e0b32584f8c2c80770afe814",
+   "m_SubObjectName": "SPR_LimboContent_ACSunflower",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Empty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 1,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Puzzle-AceOfVase",
+  "m_order": 104,
+  "m_levelName": "$SCARY_POTTER_9",
+  "m_gameMode": 59,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 9,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 0,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_Puzzle_Vase",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 2,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-ColumnLikeYouSeeEm",
+  "m_order": 62,
+  "m_levelName": "$COLUMN_AS_YOU_SEE_EM",
+  "m_gameMode": 27,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 12,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ColumnLikeYouSeeEm",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Puzzle-TotallyNuts",
+  "m_order": 109,
+  "m_levelName": "$I_ZOMBIE_4",
+  "m_gameMode": 64,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 14,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 150,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_Puzzle_Zombies",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 2,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Puzzle-CanYouDigIt",
+  "m_order": 108,
+  "m_levelName": "$I_ZOMBIE_3",
+  "m_gameMode": 63,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 13,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 150,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_Puzzle_Zombies",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 2,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Survival-PoolHard",
+  "m_order": 92,
+  "m_levelName": "$SURVIVAL_POOL_HARD",
+  "m_gameMode": 8,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 8,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "a5638b24fc0d98b488121ab9ee1d49ce",
+   "m_SubObjectName": "SPR_Survival_PoolHard",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 3,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Puzzle-MIsForMetal",
+  "m_order": 100,
+  "m_levelName": "$SCARY_POTTER_5",
+  "m_gameMode": 55,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 5,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 0,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_Puzzle_Vase",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 2,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Coop-DayEndless",
+  "m_order": 147,
+  "m_levelName": "$SURVIVAL_DAY_ENDLESS",
+  "m_gameMode": 11,
+  "m_reloadedGameMode": 2,
+  "m_levelNumber": 11,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "9a51438e978a2ce4c925963496655da3",
+   "m_SubObjectName": "SPR_Endless_Thumbnails_Day",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 4,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 10
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-Invisighoul",
+  "m_order": 56,
+  "m_levelName": "$INVISIGHOUL",
+  "m_gameMode": 21,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 6,
+  "m_gameArea": 3,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e46d5b92b87c02940a8193a9e0d410b7",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_Invisi-Ghoul",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-BobsledBonanza",
+  "m_order": 63,
+  "m_levelName": "$BOBSLED_BONANZA",
+  "m_gameMode": 28,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 13,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_BobsledBonanza",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea3Level1",
+  "m_order": 20,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 21,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0,
+   1,
+   2
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_pool",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_DuckyTube",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "PoolContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-CloudyDayLevel6",
+  "m_order": 121,
+  "m_levelName": "$CLOUDY_DAY_6",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": 0,
+  "m_levelNumber": 27,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   4,
+   11,
+   12,
+   13
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 100,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "49da1a6b78ff64140a5e2caf002af5c7",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_pool_cloudy",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 5
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-ItsRainingSeeds",
+  "m_order": 54,
+  "m_levelName": "$ITS_RAINING_SEEDS",
+  "m_gameMode": 19,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 4,
+  "m_gameArea": 3,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e46d5b92b87c02940a8193a9e0d410b7",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ItsRainingSeeds",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea5Level10",
+  "m_order": 49,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 50,
+  "m_gameArea": 5,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   4,
+   15,
+   20,
+   21,
+   22,
+   23,
+   24
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "9ea377c6f6cede34f9400a889ea46c39",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_End",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Empty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Puzzle-IZombie",
+  "m_order": 106,
+  "m_levelName": "$I_ZOMBIE",
+  "m_gameMode": 61,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 11,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 150,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_Puzzle_Zombies",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 2,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-CloudyDayLevel10",
+  "m_order": 125,
+  "m_levelName": "$CLOUDY_DAY_10",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": 0,
+  "m_levelNumber": 47,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   20,
+   21,
+   22
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 100,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "49da1a6b78ff64140a5e2caf002af5c7",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_roof_cloudy",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 9
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-ZombieNimbleZombieQuick",
+  "m_order": 64,
+  "m_levelName": "$ZOMBIES_ON_SPEED",
+  "m_gameMode": 29,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 14,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZombieNimbleZombieQuick",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Puzzle-IZombieEndless",
+  "m_order": 115,
+  "m_levelName": "$I_ZOMBIE_ENDLESS",
+  "m_gameMode": 70,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 20,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 150,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_Puzzle_Zombies",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 2,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea2Level2",
+  "m_order": 11,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 12,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   4,
+   5
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_night",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "NightContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-CloudyDayLevel4",
+  "m_order": 119,
+  "m_levelName": "$CLOUDY_DAY_4",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": 0,
+  "m_levelNumber": 9,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 100,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "49da1a6b78ff64140a5e2caf002af5c7",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_day_cloudy",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 3
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Puzzle-ChainReaction",
+  "m_order": 99,
+  "m_levelName": "$SCARY_POTTER_4",
+  "m_gameMode": 54,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 4,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 0,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_Puzzle_Vase",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 2,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-CloudyDayLevel9",
+  "m_order": 124,
+  "m_levelName": "$CLOUDY_DAY_9",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": 0,
+  "m_levelNumber": 46,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   22
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 100,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "49da1a6b78ff64140a5e2caf002af5c7",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_roof_cloudy",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Catapult",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 8
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Survival-DayHard",
+  "m_order": 90,
+  "m_levelName": "$SURVIVAL_DAY_HARD",
+  "m_gameMode": 6,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 6,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "a5638b24fc0d98b488121ab9ee1d49ce",
+   "m_SubObjectName": "SPR_Survival_DayHard",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 3,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-Beghouled",
+  "m_order": 55,
+  "m_levelName": "$BEGHOULED",
+  "m_gameMode": 20,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 5,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 0,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_Beghouled",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea1Level1",
+  "m_order": 0,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 1,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0,
+   1
+  ],
+  "m_zombieWaves": 4,
+  "m_initialSun": 150,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_day",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Flag",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "DayContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea4Level1",
+  "m_order": 30,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 31,
+  "m_gameArea": 3,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   15
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e46d5b92b87c02940a8193a9e0d410b7",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_fog",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_JackInTheBox",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Survival-Roof",
+  "m_order": 89,
+  "m_levelName": "$SURVIVAL_ROOF_NORMAL",
+  "m_gameMode": 5,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 5,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "a5638b24fc0d98b488121ab9ee1d49ce",
+   "m_SubObjectName": "SPR_Survival_Roof",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 3,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-CloudyDayLevel3",
+  "m_order": 118,
+  "m_levelName": "$CLOUDY_DAY_3",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": 0,
+  "m_levelNumber": 8,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0,
+   1,
+   2
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 100,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "49da1a6b78ff64140a5e2caf002af5c7",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_day_cloudy",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Pail",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 2
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-SeeingStars",
+  "m_order": 57,
+  "m_levelName": "$SEEING_STARS",
+  "m_gameMode": 22,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 7,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_SeeingStars",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea1Level6",
+  "m_order": 5,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 6,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_day",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_PoleVaulter",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "DayContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Survival-DayEndless",
+  "m_order": 142,
+  "m_levelName": "$SURVIVAL_DAY_ENDLESS",
+  "m_gameMode": 11,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 11,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "9a51438e978a2ce4c925963496655da3",
+   "m_SubObjectName": "SPR_Endless_Thumbnails_Day",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 3,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea3Level4",
+  "m_order": 23,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 24,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5,
+   11
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_pool",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "PoolContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-AirRaid",
+  "m_order": 76,
+  "m_levelName": "$AIR_RAID",
+  "m_gameMode": 41,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 26,
+  "m_gameArea": 3,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e46d5b92b87c02940a8193a9e0d410b7",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "1885d1d6e0b32584f8c2c80770afe814",
+   "m_SubObjectName": "SPR_LimboContent_AirRaid",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Empty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 1,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-IceLevel",
+  "m_order": 77,
+  "m_levelName": "$ICE_LEVEL",
+  "m_gameMode": 42,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 27,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "1885d1d6e0b32584f8c2c80770afe814",
+   "m_SubObjectName": "SPR_LimboContent_IceLevel",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Empty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 1,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea4Level2",
+  "m_order": 31,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 32,
+  "m_gameArea": 3,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   7,
+   15
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e46d5b92b87c02940a8193a9e0d410b7",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_fog",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Puzzle-Vasebreaker",
+  "m_order": 96,
+  "m_levelName": "$SCARY_POTTER_1",
+  "m_gameMode": 51,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 1,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 0,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_Puzzle_Vase",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 2,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Puzzle-AnotherChainReaction",
+  "m_order": 103,
+  "m_levelName": "$SCARY_POTTER_8",
+  "m_gameMode": 58,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 8,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 0,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_Puzzle_Vase",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 2,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea2Level9",
+  "m_order": 18,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 19,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   6,
+   8,
+   9
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_night",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "NightContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea4Level7",
+  "m_order": 36,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 37,
+  "m_gameArea": 3,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   4,
+   15,
+   17
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e46d5b92b87c02940a8193a9e0d410b7",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_fog",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Survival-RoofHard",
+  "m_order": 94,
+  "m_levelName": "$SURVIVAL_ROOF_HARD",
+  "m_gameMode": 10,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 10,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "a5638b24fc0d98b488121ab9ee1d49ce",
+   "m_SubObjectName": "SPR_Survival_RoofHard",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 3,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea1Level8",
+  "m_order": 7,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 8,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0,
+   1,
+   2
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_day",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Pail",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "DayContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea2Level5",
+  "m_order": 14,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 15,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 0,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Whack",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Empty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "NightContent"
+  ],
+  "m_isSpecial": 1,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea5Level8",
+  "m_order": 47,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 48,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   23,
+   24
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_roof",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Gargantuar",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-BigTroubleLittleZombie",
+  "m_order": 60,
+  "m_levelName": "$LITTLE_TROUBLE",
+  "m_gameMode": 25,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 10,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_BigTroubleLittleZombie",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Coop-Zomboss",
+  "m_order": 137,
+  "m_levelName": "$FINAL_BOSS",
+  "m_gameMode": 35,
+  "m_reloadedGameMode": 2,
+  "m_levelNumber": 10,
+  "m_gameArea": 5,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "9ea377c6f6cede34f9400a889ea46c39",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_DrZombossRevenge",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 4,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 9
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Puzzle-IZombieToo",
+  "m_order": 107,
+  "m_levelName": "$I_ZOMBIE_TOO",
+  "m_gameMode": 62,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 12,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 150,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_Puzzle_Zombies",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 2,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Coop-NightEndless",
+  "m_order": 148,
+  "m_levelName": "$SURVIVAL_NIGHT_ENDLESS",
+  "m_gameMode": 12,
+  "m_reloadedGameMode": 2,
+  "m_levelNumber": 12,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "9a51438e978a2ce4c925963496655da3",
+   "m_SubObjectName": "SPR_Endless_Thumbnails_Night",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 4,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 11
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea1Level2",
+  "m_order": 1,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 2,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0,
+   1
+  ],
+  "m_zombieWaves": 6,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_day",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "DayContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea1Level10",
+  "m_order": 9,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 10,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_day",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "DayContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-Zombotany",
+  "m_order": 51,
+  "m_levelName": "$WAR_AND_PEAS",
+  "m_gameMode": 16,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 1,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea4Level8",
+  "m_order": 37,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 38,
+  "m_gameArea": 3,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   18
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e46d5b92b87c02940a8193a9e0d410b7",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_fog",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Pogo",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea1Level4",
+  "m_order": 3,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 4,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0,
+   1,
+   2
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_day",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "DayContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea5Level6",
+  "m_order": 45,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 46,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   22
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_roof",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Catapult",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-Zombotany2",
+  "m_order": 67,
+  "m_levelName": "$WAR_AND_PEAS_2",
+  "m_gameMode": 32,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 17,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Puzzle-VasebreakerEndless",
+  "m_order": 105,
+  "m_levelName": "$SCARY_POTTER_ENDLESS",
+  "m_gameMode": 60,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 10,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 0,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_Puzzle_Vase",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 2,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea5Level2",
+  "m_order": 41,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 42,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   20
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_roof",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Survival-NightEndless",
+  "m_order": 143,
+  "m_levelName": "$SURVIVAL_NIGHT_ENDLESS",
+  "m_gameMode": 12,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 12,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "9a51438e978a2ce4c925963496655da3",
+   "m_SubObjectName": "SPR_Endless_Thumbnails_Night",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 3,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea3Level6",
+  "m_order": 25,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 26,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   12,
+   13
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_pool",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Zamboni",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "PoolContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-DarkStormyNight",
+  "m_order": 82,
+  "m_levelName": "$DARK_STORMY_NIGHT",
+  "m_gameMode": 47,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 32,
+  "m_gameArea": 3,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e46d5b92b87c02940a8193a9e0d410b7",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "1885d1d6e0b32584f8c2c80770afe814",
+   "m_SubObjectName": "SPR_LimboContent_DarkStormyNight",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Empty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 1,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea5Level3",
+  "m_order": 42,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 43,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   21
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_roof",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Ladder",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea5Level5",
+  "m_order": 44,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 45,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   4,
+   21
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_roof",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Empty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-WallnutBowling2",
+  "m_order": 68,
+  "m_levelName": "$WALL_NUT_BOWLING_EXTREME",
+  "m_gameMode": 33,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 18,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_Wall-NutBowling",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Puzzle-MeSmash",
+  "m_order": 111,
+  "m_levelName": "$I_ZOMBIE_6",
+  "m_gameMode": 66,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 16,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 150,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_Puzzle_Zombies",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 2,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-PogoParty",
+  "m_order": 69,
+  "m_levelName": "$POGO_PARTY",
+  "m_gameMode": 34,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 19,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_PogoParty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-China",
+  "m_order": 140,
+  "m_levelName": "$GREAT_WALL",
+  "m_gameMode": 73,
+  "m_reloadedGameMode": 4,
+  "m_levelNumber": 1,
+  "m_gameArea": 8,
+  "m_zombieTypes": [
+   0,
+   1,
+   7,
+   3,
+   2,
+   4,
+   20
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "691583613993d004e85408466577eaea",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-CloudyDayLevel2",
+  "m_order": 117,
+  "m_levelName": "$CLOUDY_DAY_2",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": 0,
+  "m_levelNumber": 7,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 100,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "49da1a6b78ff64140a5e2caf002af5c7",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_day_cloudy",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 1
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea5Level1",
+  "m_order": 40,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 41,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   20
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_roof",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Bungee",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Versus",
+  "m_order": 141,
+  "m_levelName": "$VS_MODE_VS_MODE",
+  "m_gameMode": 75,
+  "m_reloadedGameMode": 3,
+  "m_levelNumber": 6,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 1,
+  "m_initialSun": 75,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 5,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea5Level7",
+  "m_order": 46,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 47,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   20,
+   21,
+   22
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_roof",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Survival-Pool",
+  "m_order": 87,
+  "m_levelName": "$SURVIVAL_POOL_NORMAL",
+  "m_gameMode": 3,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 3,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "a5638b24fc0d98b488121ab9ee1d49ce",
+   "m_SubObjectName": "SPR_Survival_Pool",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 3,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-CloudyDayLevel12",
+  "m_order": 127,
+  "m_levelName": "$CLOUDY_DAY_12",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": 0,
+  "m_levelNumber": 49,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   4,
+   15,
+   20,
+   21,
+   22,
+   23,
+   24
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 100,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "49da1a6b78ff64140a5e2caf002af5c7",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_roof_cloudy",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 11
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-WhackaZombie",
+  "m_order": 65,
+  "m_levelName": "$WHACK_A_ZOMBIE",
+  "m_gameMode": 30,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 15,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 12,
+  "m_initialSun": 0,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_WhackaZombie",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-CloudyDayLevel8",
+  "m_order": 123,
+  "m_levelName": "$CLOUDY_DAY_8",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": 0,
+  "m_levelNumber": 29,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   12,
+   13,
+   14
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 100,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "49da1a6b78ff64140a5e2caf002af5c7",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_pool_cloudy",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 7
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea3Level5",
+  "m_order": 24,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 25,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   7,
+   11
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Conveyor",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Empty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "PoolContent"
+  ],
+  "m_isSpecial": 1,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-LastStand",
+  "m_order": 66,
+  "m_levelName": "$LAST_STAND",
+  "m_gameMode": 31,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 16,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 5000,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_LastStand",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Survival-Night",
+  "m_order": 86,
+  "m_levelName": "$SURVIVAL_NIGHT_NORMAL",
+  "m_gameMode": 2,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 2,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "a5638b24fc0d98b488121ab9ee1d49ce",
+   "m_SubObjectName": "SPR_Survival_Night",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 3,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Puzzle-ToTheLeft",
+  "m_order": 97,
+  "m_levelName": "$SCARY_POTTER_2",
+  "m_gameMode": 52,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 2,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 0,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_Puzzle_Vase",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 2,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea4Level9",
+  "m_order": 38,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 39,
+  "m_gameArea": 3,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   4,
+   16,
+   18
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e46d5b92b87c02940a8193a9e0d410b7",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_fog",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-PortalCombat",
+  "m_order": 61,
+  "m_levelName": "$PORTAL_COMBAT",
+  "m_gameMode": 26,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 11,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_PortalCombat",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Coop-PoolEndless",
+  "m_order": 138,
+  "m_levelName": "$SURVIVAL_POOL_ENDLESS",
+  "m_gameMode": 13,
+  "m_reloadedGameMode": 2,
+  "m_levelNumber": 13,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "a5638b24fc0d98b488121ab9ee1d49ce",
+   "m_SubObjectName": "SPR_Survival_Endless",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 4,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 12
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea2Level7",
+  "m_order": 16,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 17,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   6,
+   7
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_night",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "NightContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea3Level3",
+  "m_order": 22,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 23,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   11
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_pool",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Snorkel",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "PoolContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea5Level9",
+  "m_order": 48,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 49,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   4,
+   15,
+   20,
+   21,
+   22,
+   23,
+   24
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_roof",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea3Level8",
+  "m_order": 27,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 28,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   14
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_pool",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_DolphinRider",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "PoolContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-CloudyDayLevel1",
+  "m_order": 116,
+  "m_levelName": "$CLOUDY_DAY_1",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": 0,
+  "m_levelNumber": 6,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 100,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "49da1a6b78ff64140a5e2caf002af5c7",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_day_cloudy",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_PoleVaulter",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Survival-Fog",
+  "m_order": 88,
+  "m_levelName": "$SURVIVAL_FOG_NORMAL",
+  "m_gameMode": 4,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 4,
+  "m_gameArea": 3,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e46d5b92b87c02940a8193a9e0d410b7",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "a5638b24fc0d98b488121ab9ee1d49ce",
+   "m_SubObjectName": "SPR_Survival_Fog",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 3,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea1Level9",
+  "m_order": 8,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 9,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_day",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "DayContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea1Level3",
+  "m_order": 2,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 3,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0,
+   1,
+   2
+  ],
+  "m_zombieWaves": 8,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_day",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_TrafficCone",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "DayContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-Squirrel",
+  "m_order": 84,
+  "m_levelName": "$SQUIRREL",
+  "m_gameMode": 49,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 34,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 0,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "1885d1d6e0b32584f8c2c80770afe814",
+   "m_SubObjectName": "SPR_LimboContent_Squirrel",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Empty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 1,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea5Level4",
+  "m_order": 43,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 44,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   7,
+   18,
+   21
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_roof",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Puzzle-ThirdVase",
+  "m_order": 98,
+  "m_levelName": "$SCARY_POTTER_3",
+  "m_gameMode": 53,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 3,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 0,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_Puzzle_Vase",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 2,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Coop-Night",
+  "m_order": 129,
+  "m_levelName": "$COOP_NIGHT",
+  "m_gameMode": 74,
+  "m_reloadedGameMode": 2,
+  "m_levelNumber": 3,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   6,
+   7,
+   8,
+   9
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_night",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 4,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 2
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-BigTime",
+  "m_order": 74,
+  "m_levelName": "$BIG_TIME",
+  "m_gameMode": 39,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 24,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "1885d1d6e0b32584f8c2c80770afe814",
+   "m_SubObjectName": "SPR_LimboContent_BigTime",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Empty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 1,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Coop-Roof",
+  "m_order": 131,
+  "m_levelName": "$COOP_ROOF",
+  "m_gameMode": 74,
+  "m_reloadedGameMode": 2,
+  "m_levelNumber": 7,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   4,
+   15,
+   8,
+   5,
+   9,
+   3,
+   16,
+   17,
+   18,
+   6
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_roof",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 4,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 6
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-Unsodded",
+  "m_order": 73,
+  "m_levelName": "$UNSODDED",
+  "m_gameMode": 38,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 23,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "1885d1d6e0b32584f8c2c80770afe814",
+   "m_SubObjectName": "SPR_LimboContent_Unsodded",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Empty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 1,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-CanYouDigIt",
+  "m_order": 81,
+  "m_levelName": "$CAN_YOU_DIG_IT",
+  "m_gameMode": 46,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 31,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "1885d1d6e0b32584f8c2c80770afe814",
+   "m_SubObjectName": "SPR_LimboContent_CanYouDigIt",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Empty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 1,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-CloudyDayLevel11",
+  "m_order": 126,
+  "m_levelName": "$CLOUDY_DAY_11",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": 0,
+  "m_levelNumber": 48,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   23,
+   24
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 100,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "49da1a6b78ff64140a5e2caf002af5c7",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_roof_cloudy",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 10
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Puzzle-HokeyPokey",
+  "m_order": 102,
+  "m_levelName": "$SCARY_POTTER_7",
+  "m_gameMode": 57,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 7,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 0,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_Puzzle_Vase",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 2,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Puzzle-AllYourBrainsRBelongToUs",
+  "m_order": 114,
+  "m_levelName": "$I_ZOMBIE_9",
+  "m_gameMode": 69,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 19,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 150,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_Puzzle_Zombies",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 2,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Coop-DayHard",
+  "m_order": 133,
+  "m_levelName": "$COOP_DAY_HARD",
+  "m_gameMode": 6,
+  "m_reloadedGameMode": 2,
+  "m_levelNumber": 2,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "a5638b24fc0d98b488121ab9ee1d49ce",
+   "m_SubObjectName": "SPR_Survival_DayHard",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 4,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 1
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Puzzle-ThreeHitWonder",
+  "m_order": 113,
+  "m_levelName": "$I_ZOMBIE_8",
+  "m_gameMode": 68,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 18,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 150,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_Puzzle_Zombies",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 2,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea2Level3",
+  "m_order": 12,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 13,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   6
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_night",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Door",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "NightContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Survival-PoolEndless",
+  "m_order": 95,
+  "m_levelName": "$SURVIVAL_POOL_ENDLESS",
+  "m_gameMode": 13,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 13,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "9a51438e978a2ce4c925963496655da3",
+   "m_SubObjectName": "SPR_Endless_Thumbnails_Pool",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 3,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-ZenGarden",
+  "m_order": 78,
+  "m_levelName": "$ZEN_GARDEN",
+  "m_gameMode": 43,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 28,
+  "m_gameArea": -1,
+  "m_zombieTypes": [
+   -1
+  ],
+  "m_zombieWaves": 0,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_Puzzle_Vase",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea1Level5",
+  "m_order": 4,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 5,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0,
+   1,
+   2
+  ],
+  "m_zombieWaves": 8,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Bowling",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "DayContent"
+  ],
+  "m_isSpecial": 1,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-CloudyDayLevel7",
+  "m_order": 122,
+  "m_levelName": "$CLOUDY_DAY_7",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": 0,
+  "m_levelNumber": 28,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   14
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 100,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "49da1a6b78ff64140a5e2caf002af5c7",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_pool_cloudy",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_DolphinRider",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 6
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Coop-FogEndless",
+  "m_order": 149,
+  "m_levelName": "$SURVIVAL_FOG_ENDLESS",
+  "m_gameMode": 14,
+  "m_reloadedGameMode": 2,
+  "m_levelNumber": 14,
+  "m_gameArea": 3,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e46d5b92b87c02940a8193a9e0d410b7",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "9a51438e978a2ce4c925963496655da3",
+   "m_SubObjectName": "SPR_Endless_Thumbnails_Fog",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 4,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 13
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea3Level9",
+  "m_order": 28,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 29,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   12,
+   13,
+   14
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_pool",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "PoolContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Puzzle-ScaryPotter",
+  "m_order": 101,
+  "m_levelName": "$SCARY_POTTER_6",
+  "m_gameMode": 56,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 6,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 0,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_Puzzle_Vase",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 2,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-SunnyDay",
+  "m_order": 72,
+  "m_levelName": "$SUNNY_DAY",
+  "m_gameMode": 37,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 22,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "1885d1d6e0b32584f8c2c80770afe814",
+   "m_SubObjectName": "SPR_LimboContent_SunnyDays",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Empty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 1,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea4Level10",
+  "m_order": 39,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 40,
+  "m_gameArea": 3,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   4,
+   15,
+   16,
+   17,
+   18
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e46d5b92b87c02940a8193a9e0d410b7",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_fog",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Empty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea3Level7",
+  "m_order": 26,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 27,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   4,
+   11,
+   12,
+   13
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_pool",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "PoolContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Coop-Day",
+  "m_order": 128,
+  "m_levelName": "$COOP_DAY",
+  "m_gameMode": 74,
+  "m_reloadedGameMode": 2,
+  "m_levelNumber": 1,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_day",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 4,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea1Level7",
+  "m_order": 6,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 7,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   3,
+   4
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_day",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Normal",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "DayContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Survival-RoofEndless",
+  "m_order": 145,
+  "m_levelName": "$SURVIVAL_ROOF_ENDLESS",
+  "m_gameMode": 15,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 15,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "9a51438e978a2ce4c925963496655da3",
+   "m_SubObjectName": "SPR_Endless_Thumbnails_Roof",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 3,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea2Level8",
+  "m_order": 17,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 18,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   8,
+   9
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_night",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Dancer",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "NightContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-CloudyDayLevel5",
+  "m_order": 120,
+  "m_levelName": "$CLOUDY_DAY_5",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": 0,
+  "m_levelNumber": 26,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   12,
+   13
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 100,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "49da1a6b78ff64140a5e2caf002af5c7",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_pool_cloudy",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Zamboni",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 4
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Survival-NightHard",
+  "m_order": 91,
+  "m_levelName": "$SURVIVAL_NIGHT_HARD",
+  "m_gameMode": 7,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 7,
+  "m_gameArea": 1,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "3e831435e93959f40b51dfac058dec5f",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "a5638b24fc0d98b488121ab9ee1d49ce",
+   "m_SubObjectName": "SPR_Survival_NightHard",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 3,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-CloudyDayEndless",
+  "m_order": 146,
+  "m_levelName": "$CLOUDY_DAY_ENDLESS",
+  "m_gameMode": 11,
+  "m_reloadedGameMode": 0,
+  "m_levelNumber": 6,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "49da1a6b78ff64140a5e2caf002af5c7",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_day_cloudy",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Gargantuar",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 12
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-Zombiquarium",
+  "m_order": 58,
+  "m_levelName": "$ZOMBIQUARIUM",
+  "m_gameMode": 23,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 8,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "27274bd75e8bd9f448f1d725ea6bff67",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_Zombiquarium",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-TreeOfWisdom",
+  "m_order": 139,
+  "m_levelName": "$TREE_OF_WISDOM",
+  "m_gameMode": 50,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 1,
+  "m_gameArea": 7,
+  "m_zombieTypes": [
+   -1
+  ],
+  "m_zombieWaves": 0,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "abde5acf258062c45b5e19a0c06e69b3",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea4Level6",
+  "m_order": 35,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 36,
+  "m_gameArea": 3,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   17
+  ],
+  "m_zombieWaves": 10,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e46d5b92b87c02940a8193a9e0d410b7",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_fog",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "8cd7b1e0269f67944af9925743e7a672",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_characters_Digger",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Coop-RoofEndless",
+  "m_order": 150,
+  "m_levelName": "$SURVIVAL_ROOF_ENDLESS",
+  "m_gameMode": 15,
+  "m_reloadedGameMode": 2,
+  "m_levelNumber": 15,
+  "m_gameArea": 4,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "ec1dddaa81eaf5747b8b4a890a09c907",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "9a51438e978a2ce4c925963496655da3",
+   "m_SubObjectName": "SPR_Endless_Thumbnails_Roof",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 4,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 14
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-DrZombossRevenge",
+  "m_order": 70,
+  "m_levelName": "$FINAL_BOSS",
+  "m_gameMode": 35,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 20,
+  "m_gameArea": 5,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 40,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "9ea377c6f6cede34f9400a889ea46c39",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_DrZombossRevenge",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-Minigame-WallnutBowling",
+  "m_order": 52,
+  "m_levelName": "$WALL_NUT_BOWLING",
+  "m_gameMode": 17,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 2,
+  "m_gameArea": 0,
+  "m_zombieTypes": [
+   0
+  ],
+  "m_zombieWaves": 20,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "45d8eb3daa42e2e4ba4e8c9c6bd295ac",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_Wall-NutBowling",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "df5786327a484cc44a5a918e81f91400",
+   "m_SubObjectName": "SPR_MiniGames_ZomBotany",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 1,
+  "m_preloadLabels": [],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 1,
+   "m_PathID": -6549360423096836780
+  },
+  "m_Name": "Level-AdventureArea3Level10",
+  "m_order": 29,
+  "m_levelName": "$LEVEL",
+  "m_gameMode": 0,
+  "m_reloadedGameMode": -1,
+  "m_levelNumber": 30,
+  "m_gameArea": 2,
+  "m_zombieTypes": [
+   0,
+   1,
+   2,
+   4,
+   11,
+   12,
+   13,
+   14
+  ],
+  "m_zombieWaves": 30,
+  "m_initialSun": 50,
+  "m_backgroundPrefab": {
+   "m_AssetGUID": "e4c52191635ff424a9868f93aa0d8bfa",
+   "m_SubObjectName": "",
+   "m_SubObjectType": ""
+  },
+  "m_entryThumbnail": {
+   "m_AssetGUID": "005fbbf458f8f5f47a8a3ce9ba3ca712",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_bg_pool",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_unlockThumbnail": {
+   "m_AssetGUID": "5fdd50a8dd2df1543b2d05cfa156432a",
+   "m_SubObjectName": "SPR_LevelSelectThumbnails_special_Empty",
+   "m_SubObjectType": "UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+  },
+  "m_entryType": 0,
+  "m_preloadLabels": [
+   "PoolContent"
+  ],
+  "m_isSpecial": 0,
+  "m_isLimboContent": 0,
+  "m_subIndex": 0
+ }
+]
