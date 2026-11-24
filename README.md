@@ -23,10 +23,7 @@ pvz-replanted-re/
 │   ├── 01-RE报告.md               类型/数值/资源逆向总览
 │   ├── 02-RE源码说明.md           DiffableCs 结构源码说明
 │   ├── 03-REA还原示例.md          3 个方法从汇编到 C# 的完整闭环
-│   ├── 04-最终技术结论.md         为什么「100%原版+安卓原生+无模拟器」不存在
-│   ├── 05-PC到Android全流程.md    全量还原的规模实测与阶段计划
-│   ├── 06-改版指南-MelonLoader.md MelonLoader 修改器（Harmony 补丁）
-│   └── 07-安卓化指南.md           Winlator / 原生构建各路线
+│   ├── 04-PC到Android全流程.md    全量还原的规模实测与阶段计划
 ├── data/                      从 bundle 导出的数值表（JSON）
 │   ├── plants.json                80 个植物定义
 │   ├── zombies.json               37 个僵尸定义
