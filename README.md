@@ -138,8 +138,6 @@ python tools/dump_defs.py --game "D:/Games/PVZ Replanted" --out data
 | 100–300 | 1939 | 22.7% |
 | > 300 | 768 | 9.0% |
 
-全量还原估算约 **13 人年**（见 `docs/05-PC到Android全流程.md`）。
-
 ---
 
 ## 生成这些 dump 的工具链
